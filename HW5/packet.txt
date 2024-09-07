@@ -1,0 +1,2869 @@
+No.     Time           Source                Destination           Protocol Length Info
+      1 0.000000       0.0.0.0               255.255.255.255       DHCP     342    DHCP Discover - Transaction ID 0x523e5129
+
+Frame 1: 342 bytes on wire (2736 bits), 342 bytes captured (2736 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 0.0.0.0, Dst: 255.255.255.255
+User Datagram Protocol, Src Port: 68, Dst Port: 67
+Dynamic Host Configuration Protocol (Discover)
+
+No.     Time           Source                Destination           Protocol Length Info
+      2 3.952891       0.0.0.0               255.255.255.255       DHCP     342    DHCP Discover - Transaction ID 0x523e5129
+
+Frame 2: 342 bytes on wire (2736 bits), 342 bytes captured (2736 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 0.0.0.0, Dst: 255.255.255.255
+User Datagram Protocol, Src Port: 68, Dst Port: 67
+Dynamic Host Configuration Protocol (Discover)
+
+No.     Time           Source                Destination           Protocol Length Info
+      3 4.774263       0.0.0.0               255.255.255.255       DHCP     342    DHCP Discover - Transaction ID 0xc25e07bc
+
+Frame 3: 342 bytes on wire (2736 bits), 342 bytes captured (2736 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 0.0.0.0, Dst: 255.255.255.255
+User Datagram Protocol, Src Port: 68, Dst Port: 67
+Dynamic Host Configuration Protocol (Discover)
+
+No.     Time           Source                Destination           Protocol Length Info
+      4 8.786488       0.0.0.0               255.255.255.255       DHCP     342    DHCP Discover - Transaction ID 0x523e5129
+
+Frame 4: 342 bytes on wire (2736 bits), 342 bytes captured (2736 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 0.0.0.0, Dst: 255.255.255.255
+User Datagram Protocol, Src Port: 68, Dst Port: 67
+Dynamic Host Configuration Protocol (Discover)
+
+No.     Time           Source                Destination           Protocol Length Info
+      5 10.085269      0.0.0.0               255.255.255.255       DHCP     342    DHCP Discover - Transaction ID 0xc25e07bc
+
+Frame 5: 342 bytes on wire (2736 bits), 342 bytes captured (2736 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 0.0.0.0, Dst: 255.255.255.255
+User Datagram Protocol, Src Port: 68, Dst Port: 67
+Dynamic Host Configuration Protocol (Discover)
+
+No.     Time           Source                Destination           Protocol Length Info
+      6 14.032299      0.0.0.0               255.255.255.255       DHCP     342    DHCP Discover - Transaction ID 0xc25e07bc
+
+Frame 6: 342 bytes on wire (2736 bits), 342 bytes captured (2736 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 0.0.0.0, Dst: 255.255.255.255
+User Datagram Protocol, Src Port: 68, Dst Port: 67
+Dynamic Host Configuration Protocol (Discover)
+
+No.     Time           Source                Destination           Protocol Length Info
+      7 15.586977      0.0.0.0               255.255.255.255       DHCP     342    DHCP Discover - Transaction ID 0x523e5129
+
+Frame 7: 342 bytes on wire (2736 bits), 342 bytes captured (2736 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 0.0.0.0, Dst: 255.255.255.255
+User Datagram Protocol, Src Port: 68, Dst Port: 67
+Dynamic Host Configuration Protocol (Discover)
+
+No.     Time           Source                Destination           Protocol Length Info
+      8 16.477135      0.0.0.0               255.255.255.255       DHCP     342    DHCP Discover - Transaction ID 0xc25e07bc
+
+Frame 8: 342 bytes on wire (2736 bits), 342 bytes captured (2736 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 0.0.0.0, Dst: 255.255.255.255
+User Datagram Protocol, Src Port: 68, Dst Port: 67
+Dynamic Host Configuration Protocol (Discover)
+
+No.     Time           Source                Destination           Protocol Length Info
+      9 16.729173      fe80::ec2:69ff:fe43:0 ff02::1               MNDP     213    5678 → 5678 Len=151
+
+Frame 9: 213 bytes on wire (1704 bits), 213 bytes captured (1704 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: IPv6mcast_01 (33:33:00:00:00:01)
+Internet Protocol Version 6, Src: fe80::ec2:69ff:fe43:0, Dst: ff02::1
+User Datagram Protocol, Src Port: 5678, Dst Port: 5678
+Mikrotik Neighbor Discovery Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     10 16.729382      10.0.1.1              255.255.255.255       MNDP     193    5678 → 5678 Len=151
+
+Frame 10: 193 bytes on wire (1544 bits), 193 bytes captured (1544 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 255.255.255.255
+User Datagram Protocol, Src Port: 5678, Dst Port: 5678
+Mikrotik Neighbor Discovery Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     11 16.729428      0c:c2:69:43:00:00     CDP/VTP/DTP/PAgP/UDLD CDP      125    Device ID: MikroTik  Port ID: ether1  
+
+Frame 11: 125 bytes on wire (1000 bits), 125 bytes captured (1000 bits) on interface -, id 0
+IEEE 802.3 Ethernet 
+Logical-Link Control
+Cisco Discovery Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     12 16.730095      0c:c2:69:43:00:00     LLDP_Multicast        LLDP     154    MA/0c:c2:69:43:00:00 IN/ether1 120 SysN=MikroTik SysD=MikroTik RouterOS 7.11.2 (stable) Aug/31/2023 13:55:47 CHR 
+
+Frame 12: 154 bytes on wire (1232 bits), 154 bytes captured (1232 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: LLDP_Multicast (01:80:c2:00:00:0e)
+Link Layer Discovery Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     13 16.853793      fe80::e5d:2eff:fe8e:0 ff02::1               MNDP     213    5678 → 5678 Len=151
+
+Frame 13: 213 bytes on wire (1704 bits), 213 bytes captured (1704 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: IPv6mcast_01 (33:33:00:00:00:01)
+Internet Protocol Version 6, Src: fe80::e5d:2eff:fe8e:0, Dst: ff02::1
+User Datagram Protocol, Src Port: 5678, Dst Port: 5678
+Mikrotik Neighbor Discovery Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     14 16.853915      10.0.1.2              255.255.255.255       MNDP     193    5678 → 5678 Len=151
+
+Frame 14: 193 bytes on wire (1544 bits), 193 bytes captured (1544 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 10.0.1.2, Dst: 255.255.255.255
+User Datagram Protocol, Src Port: 5678, Dst Port: 5678
+Mikrotik Neighbor Discovery Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     15 16.853945      0c:5d:2e:8e:00:00     CDP/VTP/DTP/PAgP/UDLD CDP      125    Device ID: MikroTik  Port ID: ether1  
+
+Frame 15: 125 bytes on wire (1000 bits), 125 bytes captured (1000 bits) on interface -, id 0
+IEEE 802.3 Ethernet 
+Logical-Link Control
+Cisco Discovery Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     16 16.854004      0c:5d:2e:8e:00:00     LLDP_Multicast        LLDP     154    MA/0c:5d:2e:8e:00:00 IN/ether1 120 SysN=MikroTik SysD=MikroTik RouterOS 7.11.2 (stable) Aug/31/2023 13:55:47 CHR 
+
+Frame 16: 154 bytes on wire (1232 bits), 154 bytes captured (1232 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: LLDP_Multicast (01:80:c2:00:00:0e)
+Link Layer Discovery Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     17 18.511520      0.0.0.0               255.255.255.255       DHCP     342    DHCP Discover - Transaction ID 0x523e5129
+
+Frame 17: 342 bytes on wire (2736 bits), 342 bytes captured (2736 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 0.0.0.0, Dst: 255.255.255.255
+User Datagram Protocol, Src Port: 68, Dst Port: 67
+Dynamic Host Configuration Protocol (Discover)
+
+No.     Time           Source                Destination           Protocol Length Info
+     18 22.412653      0.0.0.0               255.255.255.255       DHCP     342    DHCP Discover - Transaction ID 0x523e5129
+
+Frame 18: 342 bytes on wire (2736 bits), 342 bytes captured (2736 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 0.0.0.0, Dst: 255.255.255.255
+User Datagram Protocol, Src Port: 68, Dst Port: 67
+Dynamic Host Configuration Protocol (Discover)
+
+No.     Time           Source                Destination           Protocol Length Info
+     19 22.956414      0.0.0.0               255.255.255.255       DHCP     342    DHCP Discover - Transaction ID 0xc25e07bc
+
+Frame 19: 342 bytes on wire (2736 bits), 342 bytes captured (2736 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 0.0.0.0, Dst: 255.255.255.255
+User Datagram Protocol, Src Port: 68, Dst Port: 67
+Dynamic Host Configuration Protocol (Discover)
+
+No.     Time           Source                Destination           Protocol Length Info
+     20 25.633155      0.0.0.0               255.255.255.255       DHCP     342    DHCP Discover - Transaction ID 0xc25e07bc
+
+Frame 20: 342 bytes on wire (2736 bits), 342 bytes captured (2736 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 0.0.0.0, Dst: 255.255.255.255
+User Datagram Protocol, Src Port: 68, Dst Port: 67
+Dynamic Host Configuration Protocol (Discover)
+
+No.     Time           Source                Destination           Protocol Length Info
+     21 28.371620      0.0.0.0               255.255.255.255       DHCP     342    DHCP Discover - Transaction ID 0x523e5129
+
+Frame 21: 342 bytes on wire (2736 bits), 342 bytes captured (2736 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 0.0.0.0, Dst: 255.255.255.255
+User Datagram Protocol, Src Port: 68, Dst Port: 67
+Dynamic Host Configuration Protocol (Discover)
+
+No.     Time           Source                Destination           Protocol Length Info
+     22 28.645341      0.0.0.0               255.255.255.255       DHCP     342    DHCP Discover - Transaction ID 0xc25e07bc
+
+Frame 22: 342 bytes on wire (2736 bits), 342 bytes captured (2736 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 0.0.0.0, Dst: 255.255.255.255
+User Datagram Protocol, Src Port: 68, Dst Port: 67
+Dynamic Host Configuration Protocol (Discover)
+
+No.     Time           Source                Destination           Protocol Length Info
+     23 29.524169      0.0.0.0               255.255.255.255       DHCP     342    DHCP Discover - Transaction ID 0x523e5129
+
+Frame 23: 342 bytes on wire (2736 bits), 342 bytes captured (2736 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 0.0.0.0, Dst: 255.255.255.255
+User Datagram Protocol, Src Port: 68, Dst Port: 67
+Dynamic Host Configuration Protocol (Discover)
+
+No.     Time           Source                Destination           Protocol Length Info
+     24 30.873226      0.0.0.0               255.255.255.255       DHCP     342    DHCP Discover - Transaction ID 0x523e5129
+
+Frame 24: 342 bytes on wire (2736 bits), 342 bytes captured (2736 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 0.0.0.0, Dst: 255.255.255.255
+User Datagram Protocol, Src Port: 68, Dst Port: 67
+Dynamic Host Configuration Protocol (Discover)
+
+No.     Time           Source                Destination           Protocol Length Info
+     25 31.698799      0.0.0.0               255.255.255.255       DHCP     342    DHCP Discover - Transaction ID 0xc25e07bc
+
+Frame 25: 342 bytes on wire (2736 bits), 342 bytes captured (2736 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 0.0.0.0, Dst: 255.255.255.255
+User Datagram Protocol, Src Port: 68, Dst Port: 67
+Dynamic Host Configuration Protocol (Discover)
+
+No.     Time           Source                Destination           Protocol Length Info
+     26 34.388099      0.0.0.0               255.255.255.255       DHCP     342    DHCP Discover - Transaction ID 0x523e5129
+
+Frame 26: 342 bytes on wire (2736 bits), 342 bytes captured (2736 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 0.0.0.0, Dst: 255.255.255.255
+User Datagram Protocol, Src Port: 68, Dst Port: 67
+Dynamic Host Configuration Protocol (Discover)
+
+No.     Time           Source                Destination           Protocol Length Info
+     27 36.909068      0.0.0.0               255.255.255.255       DHCP     342    DHCP Discover - Transaction ID 0xb73aa016
+
+Frame 27: 342 bytes on wire (2736 bits), 342 bytes captured (2736 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 0.0.0.0, Dst: 255.255.255.255
+User Datagram Protocol, Src Port: 68, Dst Port: 67
+Dynamic Host Configuration Protocol (Discover)
+
+No.     Time           Source                Destination           Protocol Length Info
+     28 37.928673      0.0.0.0               255.255.255.255       DHCP     342    DHCP Discover - Transaction ID 0x7ac6c7be
+
+Frame 28: 342 bytes on wire (2736 bits), 342 bytes captured (2736 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 0.0.0.0, Dst: 255.255.255.255
+User Datagram Protocol, Src Port: 68, Dst Port: 67
+Dynamic Host Configuration Protocol (Discover)
+
+No.     Time           Source                Destination           Protocol Length Info
+     29 38.278325      10.0.1.1              10.0.1.2              SSH      130    Client: Encrypted packet (len=64)
+
+Frame 29: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 1, Ack: 1, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     30 38.279608      10.0.1.2              10.0.1.1              TCP      66     22 → 41726 [ACK] Seq=1 Ack=65 Win=1000 Len=0 TSval=1624513727 TSecr=2271086258
+
+Frame 30: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00)
+Internet Protocol Version 4, Src: 10.0.1.2, Dst: 10.0.1.1
+Transmission Control Protocol, Src Port: 22, Dst Port: 41726, Seq: 1, Ack: 65, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+     31 38.281352      10.0.1.2              10.0.1.1              SSH      130    Server: Encrypted packet (len=64)
+
+Frame 31: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00)
+Internet Protocol Version 4, Src: 10.0.1.2, Dst: 10.0.1.1
+Transmission Control Protocol, Src Port: 22, Dst Port: 41726, Seq: 1, Ack: 65, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     32 38.282654      10.0.1.1              10.0.1.2              TCP      66     41726 → 22 [ACK] Seq=65 Ack=65 Win=1001 Len=0 TSval=2271086262 TSecr=1624513728
+
+Frame 32: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 65, Ack: 65, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+     33 38.393447      10.0.1.2              10.0.1.1              SSH      130    Server: Encrypted packet (len=64)
+
+Frame 33: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00)
+Internet Protocol Version 4, Src: 10.0.1.2, Dst: 10.0.1.1
+Transmission Control Protocol, Src Port: 22, Dst Port: 41726, Seq: 65, Ack: 65, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     34 38.394522      10.0.1.1              10.0.1.2              TCP      66     41726 → 22 [ACK] Seq=65 Ack=129 Win=1000 Len=0 TSval=2271086374 TSecr=1624513840
+
+Frame 34: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 65, Ack: 129, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+     35 38.449445      10.0.1.1              10.0.1.2              SSH      130    Client: Encrypted packet (len=64)
+
+Frame 35: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 65, Ack: 129, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     36 38.450241      10.0.1.2              10.0.1.1              TCP      66     22 → 41726 [ACK] Seq=129 Ack=129 Win=1001 Len=0 TSval=1624513898 TSecr=2271086429
+
+Frame 36: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00)
+Internet Protocol Version 4, Src: 10.0.1.2, Dst: 10.0.1.1
+Transmission Control Protocol, Src Port: 22, Dst Port: 41726, Seq: 129, Ack: 129, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+     37 38.451090      10.0.1.2              10.0.1.1              SSH      130    Server: Encrypted packet (len=64)
+
+Frame 37: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00)
+Internet Protocol Version 4, Src: 10.0.1.2, Dst: 10.0.1.1
+Transmission Control Protocol, Src Port: 22, Dst Port: 41726, Seq: 129, Ack: 129, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     38 38.451755      10.0.1.1              10.0.1.2              TCP      66     41726 → 22 [ACK] Seq=129 Ack=193 Win=1001 Len=0 TSval=2271086431 TSecr=1624513899
+
+Frame 38: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 129, Ack: 193, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+     39 38.566593      10.0.1.2              10.0.1.1              SSH      130    Server: Encrypted packet (len=64)
+
+Frame 39: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00)
+Internet Protocol Version 4, Src: 10.0.1.2, Dst: 10.0.1.1
+Transmission Control Protocol, Src Port: 22, Dst Port: 41726, Seq: 193, Ack: 129, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     40 38.567342      10.0.1.1              10.0.1.2              TCP      66     41726 → 22 [ACK] Seq=129 Ack=257 Win=1000 Len=0 TSval=2271086547 TSecr=1624514013
+
+Frame 40: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 129, Ack: 257, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+     41 38.616403      10.0.1.1              10.0.1.2              SSH      130    Client: Encrypted packet (len=64)
+
+Frame 41: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 129, Ack: 257, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     42 38.619520      10.0.1.2              10.0.1.1              TCP      66     22 → 41726 [ACK] Seq=257 Ack=193 Win=1001 Len=0 TSval=1624514067 TSecr=2271086596
+
+Frame 42: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00)
+Internet Protocol Version 4, Src: 10.0.1.2, Dst: 10.0.1.1
+Transmission Control Protocol, Src Port: 22, Dst Port: 41726, Seq: 257, Ack: 193, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+     43 38.621065      10.0.1.2              10.0.1.1              SSH      130    Server: Encrypted packet (len=64)
+
+Frame 43: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00)
+Internet Protocol Version 4, Src: 10.0.1.2, Dst: 10.0.1.1
+Transmission Control Protocol, Src Port: 22, Dst Port: 41726, Seq: 257, Ack: 193, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     44 38.622731      10.0.1.1              10.0.1.2              TCP      66     41726 → 22 [ACK] Seq=193 Ack=321 Win=1001 Len=0 TSval=2271086602 TSecr=1624514068
+
+Frame 44: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 193, Ack: 321, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+     45 38.729424      10.0.1.2              10.0.1.1              SSH      130    Server: Encrypted packet (len=64)
+
+Frame 45: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00)
+Internet Protocol Version 4, Src: 10.0.1.2, Dst: 10.0.1.1
+Transmission Control Protocol, Src Port: 22, Dst Port: 41726, Seq: 321, Ack: 193, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     46 38.731593      10.0.1.1              10.0.1.2              TCP      66     41726 → 22 [ACK] Seq=193 Ack=385 Win=1000 Len=0 TSval=2271086710 TSecr=1624514176
+
+Frame 46: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 193, Ack: 385, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+     47 38.810585      10.0.1.1              10.0.1.2              SSH      130    Client: Encrypted packet (len=64)
+
+Frame 47: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 193, Ack: 385, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     48 38.811172      10.0.1.2              10.0.1.1              SSH      130    Server: Encrypted packet (len=64)
+
+Frame 48: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00)
+Internet Protocol Version 4, Src: 10.0.1.2, Dst: 10.0.1.1
+Transmission Control Protocol, Src Port: 22, Dst Port: 41726, Seq: 385, Ack: 257, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     49 38.811470      10.0.1.1              10.0.1.2              TCP      66     41726 → 22 [ACK] Seq=257 Ack=449 Win=1001 Len=0 TSval=2271086791 TSecr=1624514259
+
+Frame 49: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 257, Ack: 449, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+     50 38.915893      10.0.1.2              10.0.1.1              SSH      130    Server: Encrypted packet (len=64)
+
+Frame 50: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00)
+Internet Protocol Version 4, Src: 10.0.1.2, Dst: 10.0.1.1
+Transmission Control Protocol, Src Port: 22, Dst Port: 41726, Seq: 449, Ack: 257, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     51 38.916645      10.0.1.1              10.0.1.2              TCP      66     41726 → 22 [ACK] Seq=257 Ack=513 Win=1000 Len=0 TSval=2271086896 TSecr=1624514363
+
+Frame 51: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 257, Ack: 513, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+     52 38.923794      10.0.1.1              10.0.1.2              SSH      130    Client: Encrypted packet (len=64)
+
+Frame 52: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 257, Ack: 513, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     53 38.926042      10.0.1.2              10.0.1.1              SSH      130    Server: Encrypted packet (len=64)
+
+Frame 53: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00)
+Internet Protocol Version 4, Src: 10.0.1.2, Dst: 10.0.1.1
+Transmission Control Protocol, Src Port: 22, Dst Port: 41726, Seq: 513, Ack: 321, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     54 38.931087      0.0.0.0               255.255.255.255       DHCP     342    DHCP Discover - Transaction ID 0x7ac6c7be
+
+Frame 54: 342 bytes on wire (2736 bits), 342 bytes captured (2736 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 0.0.0.0, Dst: 255.255.255.255
+User Datagram Protocol, Src Port: 68, Dst Port: 67
+Dynamic Host Configuration Protocol (Discover)
+
+No.     Time           Source                Destination           Protocol Length Info
+     55 38.982096      10.0.1.1              10.0.1.2              TCP      66     41726 → 22 [ACK] Seq=321 Ack=577 Win=1002 Len=0 TSval=2271086961 TSecr=1624514373
+
+Frame 55: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 321, Ack: 577, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+     56 39.033284      10.0.1.2              10.0.1.1              SSH      130    Server: Encrypted packet (len=64)
+
+Frame 56: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00)
+Internet Protocol Version 4, Src: 10.0.1.2, Dst: 10.0.1.1
+Transmission Control Protocol, Src Port: 22, Dst Port: 41726, Seq: 577, Ack: 321, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     57 39.034157      10.0.1.1              10.0.1.2              TCP      66     41726 → 22 [ACK] Seq=321 Ack=641 Win=1001 Len=0 TSval=2271087014 TSecr=1624514480
+
+Frame 57: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 321, Ack: 641, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+     58 39.107565      10.0.1.1              10.0.1.2              SSH      130    Client: Encrypted packet (len=64)
+
+Frame 58: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 321, Ack: 641, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     59 39.110026      10.0.1.2              10.0.1.1              SSH      130    Server: Encrypted packet (len=64)
+
+Frame 59: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00)
+Internet Protocol Version 4, Src: 10.0.1.2, Dst: 10.0.1.1
+Transmission Control Protocol, Src Port: 22, Dst Port: 41726, Seq: 641, Ack: 385, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     60 39.111246      10.0.1.1              10.0.1.2              TCP      66     41726 → 22 [ACK] Seq=385 Ack=705 Win=1001 Len=0 TSval=2271087090 TSecr=1624514557
+
+Frame 60: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 385, Ack: 705, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+     61 39.164110      0.0.0.0               255.255.255.255       DHCP     342    DHCP Discover - Transaction ID 0x34b62d91
+
+Frame 61: 342 bytes on wire (2736 bits), 342 bytes captured (2736 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 0.0.0.0, Dst: 255.255.255.255
+User Datagram Protocol, Src Port: 68, Dst Port: 67
+Dynamic Host Configuration Protocol (Discover)
+
+No.     Time           Source                Destination           Protocol Length Info
+     62 39.215371      10.0.1.2              10.0.1.1              SSH      130    Server: Encrypted packet (len=64)
+
+Frame 62: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00)
+Internet Protocol Version 4, Src: 10.0.1.2, Dst: 10.0.1.1
+Transmission Control Protocol, Src Port: 22, Dst Port: 41726, Seq: 705, Ack: 385, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     63 39.216037      10.0.1.1              10.0.1.2              TCP      66     41726 → 22 [ACK] Seq=385 Ack=769 Win=1002 Len=0 TSval=2271087196 TSecr=1624514662
+
+Frame 63: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 385, Ack: 769, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+     64 39.248359      10.0.1.1              10.0.1.2              SSH      130    Client: Encrypted packet (len=64)
+
+Frame 64: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 385, Ack: 769, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     65 39.250373      10.0.1.2              10.0.1.1              SSH      130    Server: Encrypted packet (len=64)
+
+Frame 65: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00)
+Internet Protocol Version 4, Src: 10.0.1.2, Dst: 10.0.1.1
+Transmission Control Protocol, Src Port: 22, Dst Port: 41726, Seq: 769, Ack: 449, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     66 39.251021      10.0.1.1              10.0.1.2              TCP      66     41726 → 22 [ACK] Seq=449 Ack=833 Win=1002 Len=0 TSval=2271087231 TSecr=1624514698
+
+Frame 66: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 449, Ack: 833, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+     67 39.331409      10.0.1.1              10.0.1.2              SSH      130    Client: Encrypted packet (len=64)
+
+Frame 67: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 449, Ack: 833, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     68 39.332389      10.0.1.2              10.0.1.1              SSH      130    Server: Encrypted packet (len=64)
+
+Frame 68: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00)
+Internet Protocol Version 4, Src: 10.0.1.2, Dst: 10.0.1.1
+Transmission Control Protocol, Src Port: 22, Dst Port: 41726, Seq: 833, Ack: 513, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     69 39.332935      10.0.1.1              10.0.1.2              TCP      66     41726 → 22 [ACK] Seq=513 Ack=897 Win=1002 Len=0 TSval=2271087313 TSecr=1624514780
+
+Frame 69: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 513, Ack: 897, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+     70 39.450496      10.0.1.2              10.0.1.1              SSH      146    Server: Encrypted packet (len=80)
+
+Frame 70: 146 bytes on wire (1168 bits), 146 bytes captured (1168 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00)
+Internet Protocol Version 4, Src: 10.0.1.2, Dst: 10.0.1.1
+Transmission Control Protocol, Src Port: 22, Dst Port: 41726, Seq: 897, Ack: 513, Len: 80
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     71 39.452127      10.0.1.1              10.0.1.2              TCP      66     41726 → 22 [ACK] Seq=513 Ack=977 Win=1002 Len=0 TSval=2271087431 TSecr=1624514897
+
+Frame 71: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 513, Ack: 977, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+     72 39.481382      10.0.1.1              10.0.1.2              SSH      130    Client: Encrypted packet (len=64)
+
+Frame 72: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 513, Ack: 977, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     73 39.483367      10.0.1.2              10.0.1.1              SSH      130    Server: Encrypted packet (len=64)
+
+Frame 73: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00)
+Internet Protocol Version 4, Src: 10.0.1.2, Dst: 10.0.1.1
+Transmission Control Protocol, Src Port: 22, Dst Port: 41726, Seq: 977, Ack: 577, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     74 39.483957      10.0.1.1              10.0.1.2              TCP      66     41726 → 22 [ACK] Seq=577 Ack=1041 Win=1002 Len=0 TSval=2271087464 TSecr=1624514931
+
+Frame 74: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 577, Ack: 1041, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+     75 39.614305      10.0.1.1              10.0.1.2              SSH      130    Client: Encrypted packet (len=64)
+
+Frame 75: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 577, Ack: 1041, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     76 39.616155      10.0.1.2              10.0.1.1              SSH      130    Server: Encrypted packet (len=64)
+
+Frame 76: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00)
+Internet Protocol Version 4, Src: 10.0.1.2, Dst: 10.0.1.1
+Transmission Control Protocol, Src Port: 22, Dst Port: 41726, Seq: 1041, Ack: 641, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     77 39.617019      10.0.1.1              10.0.1.2              TCP      66     41726 → 22 [ACK] Seq=641 Ack=1105 Win=1002 Len=0 TSval=2271087596 TSecr=1624515063
+
+Frame 77: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 641, Ack: 1105, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+     78 39.652800      10.0.1.1              10.0.1.2              SSH      130    Client: Encrypted packet (len=64)
+
+Frame 78: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 641, Ack: 1105, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     79 39.653911      10.0.1.2              10.0.1.1              SSH      130    Server: Encrypted packet (len=64)
+
+Frame 79: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00)
+Internet Protocol Version 4, Src: 10.0.1.2, Dst: 10.0.1.1
+Transmission Control Protocol, Src Port: 22, Dst Port: 41726, Seq: 1105, Ack: 705, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     80 39.654320      10.0.1.1              10.0.1.2              TCP      66     41726 → 22 [ACK] Seq=705 Ack=1169 Win=1002 Len=0 TSval=2271087634 TSecr=1624515101
+
+Frame 80: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 705, Ack: 1169, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+     81 39.782940      10.0.1.1              10.0.1.2              SSH      130    Client: Encrypted packet (len=64)
+
+Frame 81: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 705, Ack: 1169, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     82 39.783799      10.0.1.2              10.0.1.1              SSH      130    Server: Encrypted packet (len=64)
+
+Frame 82: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00)
+Internet Protocol Version 4, Src: 10.0.1.2, Dst: 10.0.1.1
+Transmission Control Protocol, Src Port: 22, Dst Port: 41726, Seq: 1169, Ack: 769, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     83 39.784539      10.0.1.1              10.0.1.2              TCP      66     41726 → 22 [ACK] Seq=769 Ack=1233 Win=1002 Len=0 TSval=2271087764 TSecr=1624515231
+
+Frame 83: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 769, Ack: 1233, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+     84 39.881553      10.0.1.1              10.0.1.2              SSH      130    Client: Encrypted packet (len=64)
+
+Frame 84: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 769, Ack: 1233, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     85 39.883270      10.0.1.2              10.0.1.1              SSH      130    Server: Encrypted packet (len=64)
+
+Frame 85: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00)
+Internet Protocol Version 4, Src: 10.0.1.2, Dst: 10.0.1.1
+Transmission Control Protocol, Src Port: 22, Dst Port: 41726, Seq: 1233, Ack: 833, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     86 39.884607      10.0.1.1              10.0.1.2              TCP      66     41726 → 22 [ACK] Seq=833 Ack=1297 Win=1002 Len=0 TSval=2271087864 TSecr=1624515330
+
+Frame 86: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 833, Ack: 1297, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+     87 40.050411      10.0.1.1              10.0.1.2              SSH      130    Client: Encrypted packet (len=64)
+
+Frame 87: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 833, Ack: 1297, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     88 40.052466      10.0.1.2              10.0.1.1              SSH      226    Server: Encrypted packet (len=160)
+
+Frame 88: 226 bytes on wire (1808 bits), 226 bytes captured (1808 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00)
+Internet Protocol Version 4, Src: 10.0.1.2, Dst: 10.0.1.1
+Transmission Control Protocol, Src Port: 22, Dst Port: 41726, Seq: 1297, Ack: 897, Len: 160
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     89 40.052898      10.0.1.1              10.0.1.2              TCP      66     41726 → 22 [ACK] Seq=897 Ack=1457 Win=1002 Len=0 TSval=2271088032 TSecr=1624515500
+
+Frame 89: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 897, Ack: 1457, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+     90 40.165535      0.0.0.0               255.255.255.255       DHCP     342    DHCP Discover - Transaction ID 0x213a6483
+
+Frame 90: 342 bytes on wire (2736 bits), 342 bytes captured (2736 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 0.0.0.0, Dst: 255.255.255.255
+User Datagram Protocol, Src Port: 68, Dst Port: 67
+Dynamic Host Configuration Protocol (Discover)
+
+No.     Time           Source                Destination           Protocol Length Info
+     91 40.489312      0.0.0.0               255.255.255.255       DHCP     342    DHCP Discover - Transaction ID 0x7ac6c7be
+
+Frame 91: 342 bytes on wire (2736 bits), 342 bytes captured (2736 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 0.0.0.0, Dst: 255.255.255.255
+User Datagram Protocol, Src Port: 68, Dst Port: 67
+Dynamic Host Configuration Protocol (Discover)
+
+No.     Time           Source                Destination           Protocol Length Info
+     92 41.074613      10.0.1.1              10.0.1.2              SSH      130    Client: Encrypted packet (len=64)
+
+Frame 92: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 897, Ack: 1457, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     93 41.076759      10.0.1.2              10.0.1.1              SSH      130    Server: Encrypted packet (len=64)
+
+Frame 93: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00)
+Internet Protocol Version 4, Src: 10.0.1.2, Dst: 10.0.1.1
+Transmission Control Protocol, Src Port: 22, Dst Port: 41726, Seq: 1457, Ack: 961, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     94 41.078114      10.0.1.1              10.0.1.2              TCP      66     41726 → 22 [ACK] Seq=961 Ack=1521 Win=1001 Len=0 TSval=2271089057 TSecr=1624516524
+
+Frame 94: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 961, Ack: 1521, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+     95 41.168042      0.0.0.0               255.255.255.255       DHCP     342    DHCP Discover - Transaction ID 0x213a6483
+
+Frame 95: 342 bytes on wire (2736 bits), 342 bytes captured (2736 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 0.0.0.0, Dst: 255.255.255.255
+User Datagram Protocol, Src Port: 68, Dst Port: 67
+Dynamic Host Configuration Protocol (Discover)
+
+No.     Time           Source                Destination           Protocol Length Info
+     96 41.182404      10.0.1.2              10.0.1.1              SSH      130    Server: Encrypted packet (len=64)
+
+Frame 96: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00)
+Internet Protocol Version 4, Src: 10.0.1.2, Dst: 10.0.1.1
+Transmission Control Protocol, Src Port: 22, Dst Port: 41726, Seq: 1521, Ack: 961, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     97 41.184290      10.0.1.1              10.0.1.2              TCP      66     41726 → 22 [ACK] Seq=961 Ack=1585 Win=1000 Len=0 TSval=2271089163 TSecr=1624516629
+
+Frame 97: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 961, Ack: 1585, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+     98 41.190580      10.0.1.1              10.0.1.2              SSH      130    Client: Encrypted packet (len=64)
+
+Frame 98: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 961, Ack: 1585, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     99 41.193309      10.0.1.2              10.0.1.1              SSH      130    Server: Encrypted packet (len=64)
+
+Frame 99: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00)
+Internet Protocol Version 4, Src: 10.0.1.2, Dst: 10.0.1.1
+Transmission Control Protocol, Src Port: 22, Dst Port: 41726, Seq: 1585, Ack: 1025, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    100 41.254985      10.0.1.1              10.0.1.2              TCP      66     41726 → 22 [ACK] Seq=1025 Ack=1649 Win=1002 Len=0 TSval=2271089234 TSecr=1624516640
+
+Frame 100: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 1025, Ack: 1649, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    101 41.255181      10.0.1.1              10.0.1.2              SSH      130    Client: Encrypted packet (len=64)
+
+Frame 101: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 1025, Ack: 1649, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    102 41.256885      10.0.1.2              10.0.1.1              SSH      130    Server: Encrypted packet (len=64)
+
+Frame 102: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00)
+Internet Protocol Version 4, Src: 10.0.1.2, Dst: 10.0.1.1
+Transmission Control Protocol, Src Port: 22, Dst Port: 41726, Seq: 1649, Ack: 1089, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    103 41.258152      10.0.1.1              10.0.1.2              TCP      66     41726 → 22 [ACK] Seq=1089 Ack=1713 Win=1001 Len=0 TSval=2271089237 TSecr=1624516704
+
+Frame 103: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 1089, Ack: 1713, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    104 41.355872      10.0.1.1              10.0.1.2              SSH      130    Client: Encrypted packet (len=64)
+
+Frame 104: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 1089, Ack: 1713, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    105 41.358330      10.0.1.2              10.0.1.1              SSH      130    Server: Encrypted packet (len=64)
+
+Frame 105: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00)
+Internet Protocol Version 4, Src: 10.0.1.2, Dst: 10.0.1.1
+Transmission Control Protocol, Src Port: 22, Dst Port: 41726, Seq: 1713, Ack: 1153, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    106 41.360378      10.0.1.1              10.0.1.2              TCP      66     41726 → 22 [ACK] Seq=1153 Ack=1777 Win=1001 Len=0 TSval=2271089340 TSecr=1624516806
+
+Frame 106: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 1153, Ack: 1777, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    107 41.434741      10.0.1.1              10.0.1.2              SSH      130    Client: Encrypted packet (len=64)
+
+Frame 107: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 1153, Ack: 1777, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    108 41.435255      10.0.1.2              10.0.1.1              SSH      130    Server: Encrypted packet (len=64)
+
+Frame 108: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00)
+Internet Protocol Version 4, Src: 10.0.1.2, Dst: 10.0.1.1
+Transmission Control Protocol, Src Port: 22, Dst Port: 41726, Seq: 1777, Ack: 1217, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    109 41.435544      10.0.1.1              10.0.1.2              TCP      66     41726 → 22 [ACK] Seq=1217 Ack=1841 Win=1001 Len=0 TSval=2271089415 TSecr=1624516883
+
+Frame 109: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 1217, Ack: 1841, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    110 41.536943      10.0.1.2              10.0.1.1              SSH      146    Server: Encrypted packet (len=80)
+
+Frame 110: 146 bytes on wire (1168 bits), 146 bytes captured (1168 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00)
+Internet Protocol Version 4, Src: 10.0.1.2, Dst: 10.0.1.1
+Transmission Control Protocol, Src Port: 22, Dst Port: 41726, Seq: 1841, Ack: 1217, Len: 80
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    111 41.537722      10.0.1.1              10.0.1.2              TCP      66     41726 → 22 [ACK] Seq=1217 Ack=1921 Win=1000 Len=0 TSval=2271089517 TSecr=1624516984
+
+Frame 111: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 1217, Ack: 1921, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    112 41.552169      10.0.1.1              10.0.1.2              SSH      130    Client: Encrypted packet (len=64)
+
+Frame 112: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 1217, Ack: 1921, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    113 41.554160      10.0.1.2              10.0.1.1              SSH      130    Server: Encrypted packet (len=64)
+
+Frame 113: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00)
+Internet Protocol Version 4, Src: 10.0.1.2, Dst: 10.0.1.1
+Transmission Control Protocol, Src Port: 22, Dst Port: 41726, Seq: 1921, Ack: 1281, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    114 41.555572      10.0.1.1              10.0.1.2              TCP      66     41726 → 22 [ACK] Seq=1281 Ack=1985 Win=1001 Len=0 TSval=2271089535 TSecr=1624517001
+
+Frame 114: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 1281, Ack: 1985, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    115 41.719546      10.0.1.1              10.0.1.2              SSH      130    Client: Encrypted packet (len=64)
+
+Frame 115: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 1281, Ack: 1985, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    116 41.720494      10.0.1.2              10.0.1.1              SSH      130    Server: Encrypted packet (len=64)
+
+Frame 116: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00)
+Internet Protocol Version 4, Src: 10.0.1.2, Dst: 10.0.1.1
+Transmission Control Protocol, Src Port: 22, Dst Port: 41726, Seq: 1985, Ack: 1345, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    117 41.721068      10.0.1.1              10.0.1.2              TCP      66     41726 → 22 [ACK] Seq=1345 Ack=2049 Win=1001 Len=0 TSval=2271089700 TSecr=1624517168
+
+Frame 117: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 1345, Ack: 2049, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    118 41.890947      10.0.1.1              10.0.1.2              SSH      130    Client: Encrypted packet (len=64)
+
+Frame 118: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 1345, Ack: 2049, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    119 41.893072      10.0.1.2              10.0.1.1              SSH      130    Server: Encrypted packet (len=64)
+
+Frame 119: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00)
+Internet Protocol Version 4, Src: 10.0.1.2, Dst: 10.0.1.1
+Transmission Control Protocol, Src Port: 22, Dst Port: 41726, Seq: 2049, Ack: 1409, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    120 41.894542      10.0.1.1              10.0.1.2              TCP      66     41726 → 22 [ACK] Seq=1409 Ack=2113 Win=1002 Len=0 TSval=2271089873 TSecr=1624517340
+
+Frame 120: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 1409, Ack: 2113, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    121 42.071661      10.0.1.1              10.0.1.2              SSH      130    Client: Encrypted packet (len=64)
+
+Frame 121: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 1409, Ack: 2113, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    122 42.073372      10.0.1.2              10.0.1.1              SSH      130    Server: Encrypted packet (len=64)
+
+Frame 122: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00)
+Internet Protocol Version 4, Src: 10.0.1.2, Dst: 10.0.1.1
+Transmission Control Protocol, Src Port: 22, Dst Port: 41726, Seq: 2113, Ack: 1473, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    123 42.074618      10.0.1.1              10.0.1.2              TCP      66     41726 → 22 [ACK] Seq=1473 Ack=2177 Win=1002 Len=0 TSval=2271090054 TSecr=1624517520
+
+Frame 123: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 1473, Ack: 2177, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    124 42.261706      0.0.0.0               255.255.255.255       DHCP     342    DHCP Discover - Transaction ID 0x213a6483
+
+Frame 124: 342 bytes on wire (2736 bits), 342 bytes captured (2736 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 0.0.0.0, Dst: 255.255.255.255
+User Datagram Protocol, Src Port: 68, Dst Port: 67
+Dynamic Host Configuration Protocol (Discover)
+
+No.     Time           Source                Destination           Protocol Length Info
+    125 42.304100      10.0.1.1              10.0.1.2              SSH      130    Client: Encrypted packet (len=64)
+
+Frame 125: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 1473, Ack: 2177, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    126 42.306508      10.0.1.2              10.0.1.1              SSH      130    Server: Encrypted packet (len=64)
+
+Frame 126: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00)
+Internet Protocol Version 4, Src: 10.0.1.2, Dst: 10.0.1.1
+Transmission Control Protocol, Src Port: 22, Dst Port: 41726, Seq: 2177, Ack: 1537, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    127 42.307663      10.0.1.1              10.0.1.2              TCP      66     41726 → 22 [ACK] Seq=1537 Ack=2241 Win=1001 Len=0 TSval=2271090287 TSecr=1624517753
+
+Frame 127: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 1537, Ack: 2241, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    128 42.439918      10.0.1.1              10.0.1.2              SSH      130    Client: Encrypted packet (len=64)
+
+Frame 128: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 1537, Ack: 2241, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    129 42.441610      10.0.1.2              10.0.1.1              SSH      130    Server: Encrypted packet (len=64)
+
+Frame 129: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00)
+Internet Protocol Version 4, Src: 10.0.1.2, Dst: 10.0.1.1
+Transmission Control Protocol, Src Port: 22, Dst Port: 41726, Seq: 2241, Ack: 1601, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    130 42.442694      10.0.1.1              10.0.1.2              TCP      66     41726 → 22 [ACK] Seq=1601 Ack=2305 Win=1001 Len=0 TSval=2271090422 TSecr=1624517889
+
+Frame 130: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 1601, Ack: 2305, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    131 42.946305      10.0.1.1              10.0.1.2              SSH      130    Client: Encrypted packet (len=64)
+
+Frame 131: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 1601, Ack: 2305, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    132 42.947692      10.0.1.2              10.0.1.1              SSH      130    Server: Encrypted packet (len=64)
+
+Frame 132: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00)
+Internet Protocol Version 4, Src: 10.0.1.2, Dst: 10.0.1.1
+Transmission Control Protocol, Src Port: 22, Dst Port: 41726, Seq: 2305, Ack: 1665, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    133 42.948629      10.0.1.1              10.0.1.2              TCP      66     41726 → 22 [ACK] Seq=1665 Ack=2369 Win=1001 Len=0 TSval=2271090928 TSecr=1624518395
+
+Frame 133: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 1665, Ack: 2369, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    134 42.973992      10.0.1.1              10.0.1.2              SSH      130    Client: Encrypted packet (len=64)
+
+Frame 134: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 1665, Ack: 2369, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    135 42.975052      10.0.1.2              10.0.1.1              SSH      130    Server: Encrypted packet (len=64)
+
+Frame 135: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00)
+Internet Protocol Version 4, Src: 10.0.1.2, Dst: 10.0.1.1
+Transmission Control Protocol, Src Port: 22, Dst Port: 41726, Seq: 2369, Ack: 1729, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    136 42.975455      10.0.1.1              10.0.1.2              TCP      66     41726 → 22 [ACK] Seq=1729 Ack=2433 Win=1001 Len=0 TSval=2271090955 TSecr=1624518422
+
+Frame 136: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 1729, Ack: 2433, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    137 43.011678      10.0.1.1              10.0.1.2              SSH      130    Client: Encrypted packet (len=64)
+
+Frame 137: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 1729, Ack: 2433, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    138 43.013468      10.0.1.2              10.0.1.1              SSH      130    Server: Encrypted packet (len=64)
+
+Frame 138: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00)
+Internet Protocol Version 4, Src: 10.0.1.2, Dst: 10.0.1.1
+Transmission Control Protocol, Src Port: 22, Dst Port: 41726, Seq: 2433, Ack: 1793, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    139 43.014125      10.0.1.1              10.0.1.2              TCP      66     41726 → 22 [ACK] Seq=1793 Ack=2497 Win=1001 Len=0 TSval=2271090994 TSecr=1624518461
+
+Frame 139: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 1793, Ack: 2497, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    140 43.046280      10.0.1.1              10.0.1.2              SSH      130    Client: Encrypted packet (len=64)
+
+Frame 140: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 1793, Ack: 2497, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    141 43.048108      10.0.1.2              10.0.1.1              SSH      130    Server: Encrypted packet (len=64)
+
+Frame 141: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00)
+Internet Protocol Version 4, Src: 10.0.1.2, Dst: 10.0.1.1
+Transmission Control Protocol, Src Port: 22, Dst Port: 41726, Seq: 2497, Ack: 1857, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    142 43.048851      10.0.1.1              10.0.1.2              TCP      66     41726 → 22 [ACK] Seq=1857 Ack=2561 Win=1001 Len=0 TSval=2271091028 TSecr=1624518495
+
+Frame 142: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 1857, Ack: 2561, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    143 43.072313      10.0.1.1              10.0.1.2              SSH      130    Client: Encrypted packet (len=64)
+
+Frame 143: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 1857, Ack: 2561, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    144 43.075018      10.0.1.2              10.0.1.1              SSH      130    Server: Encrypted packet (len=64)
+
+Frame 144: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00)
+Internet Protocol Version 4, Src: 10.0.1.2, Dst: 10.0.1.1
+Transmission Control Protocol, Src Port: 22, Dst Port: 41726, Seq: 2561, Ack: 1921, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    145 43.076294      10.0.1.1              10.0.1.2              TCP      66     41726 → 22 [ACK] Seq=1921 Ack=2625 Win=1001 Len=0 TSval=2271091055 TSecr=1624518522
+
+Frame 145: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 1921, Ack: 2625, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    146 43.112690      10.0.1.1              10.0.1.2              SSH      130    Client: Encrypted packet (len=64)
+
+Frame 146: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 1921, Ack: 2625, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    147 43.115557      10.0.1.2              10.0.1.1              SSH      130    Server: Encrypted packet (len=64)
+
+Frame 147: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00)
+Internet Protocol Version 4, Src: 10.0.1.2, Dst: 10.0.1.1
+Transmission Control Protocol, Src Port: 22, Dst Port: 41726, Seq: 2625, Ack: 1985, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    148 43.117855      10.0.1.1              10.0.1.2              TCP      66     41726 → 22 [ACK] Seq=1985 Ack=2689 Win=1001 Len=0 TSval=2271091096 TSecr=1624518562
+
+Frame 148: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 1985, Ack: 2689, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    149 43.145687      10.0.1.1              10.0.1.2              SSH      130    Client: Encrypted packet (len=64)
+
+Frame 149: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 1985, Ack: 2689, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    150 43.147141      10.0.1.2              10.0.1.1              SSH      130    Server: Encrypted packet (len=64)
+
+Frame 150: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00)
+Internet Protocol Version 4, Src: 10.0.1.2, Dst: 10.0.1.1
+Transmission Control Protocol, Src Port: 22, Dst Port: 41726, Seq: 2689, Ack: 2049, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    151 43.148044      10.0.1.1              10.0.1.2              TCP      66     41726 → 22 [ACK] Seq=2049 Ack=2753 Win=1001 Len=0 TSval=2271091127 TSecr=1624518594
+
+Frame 151: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 2049, Ack: 2753, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    152 43.177946      10.0.1.1              10.0.1.2              SSH      130    Client: Encrypted packet (len=64)
+
+Frame 152: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 2049, Ack: 2753, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    153 43.201178      10.0.1.1              10.0.1.2              SSH      130    Client: Encrypted packet (len=64)
+
+Frame 153: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 2113, Ack: 2753, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    154 43.201646      10.0.1.2              10.0.1.1              TCP      66     22 → 41726 [ACK] Seq=2753 Ack=2177 Win=1000 Len=0 TSval=1624518649 TSecr=2271091157
+
+Frame 154: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00)
+Internet Protocol Version 4, Src: 10.0.1.2, Dst: 10.0.1.1
+Transmission Control Protocol, Src Port: 22, Dst Port: 41726, Seq: 2753, Ack: 2177, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    155 43.232959      10.0.1.1              10.0.1.2              SSH      130    Client: Encrypted packet (len=64)
+
+Frame 155: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 2177, Ack: 2753, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    156 43.261340      10.0.1.1              10.0.1.2              SSH      130    Client: Encrypted packet (len=64)
+
+Frame 156: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 2241, Ack: 2753, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    157 43.262265      10.0.1.2              10.0.1.1              TCP      66     22 → 41726 [ACK] Seq=2753 Ack=2305 Win=998 Len=0 TSval=1624518710 TSecr=2271091212
+
+Frame 157: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00)
+Internet Protocol Version 4, Src: 10.0.1.2, Dst: 10.0.1.1
+Transmission Control Protocol, Src Port: 22, Dst Port: 41726, Seq: 2753, Ack: 2305, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    158 43.307635      10.0.1.1              10.0.1.2              SSH      130    Client: Encrypted packet (len=64)
+
+Frame 158: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 2305, Ack: 2753, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    159 43.341704      10.0.1.1              10.0.1.2              SSH      130    Client: Encrypted packet (len=64)
+
+Frame 159: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 2369, Ack: 2753, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    160 43.343420      10.0.1.2              10.0.1.1              TCP      66     22 → 41726 [ACK] Seq=2753 Ack=2433 Win=996 Len=0 TSval=1624518790 TSecr=2271091287
+
+Frame 160: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00)
+Internet Protocol Version 4, Src: 10.0.1.2, Dst: 10.0.1.1
+Transmission Control Protocol, Src Port: 22, Dst Port: 41726, Seq: 2753, Ack: 2433, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    161 43.371323      10.0.1.1              10.0.1.2              SSH      130    Client: Encrypted packet (len=64)
+
+Frame 161: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 2433, Ack: 2753, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    162 43.408437      10.0.1.1              10.0.1.2              SSH      130    Client: Encrypted packet (len=64)
+
+Frame 162: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 2497, Ack: 2753, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    163 43.409355      10.0.1.2              10.0.1.1              TCP      66     22 → 41726 [ACK] Seq=2753 Ack=2561 Win=994 Len=0 TSval=1624518857 TSecr=2271091350
+
+Frame 163: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00)
+Internet Protocol Version 4, Src: 10.0.1.2, Dst: 10.0.1.1
+Transmission Control Protocol, Src Port: 22, Dst Port: 41726, Seq: 2753, Ack: 2561, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    164 43.439390      10.0.1.1              10.0.1.2              SSH      130    Client: Encrypted packet (len=64)
+
+Frame 164: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 2561, Ack: 2753, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    165 43.488903      10.0.1.2              10.0.1.1              TCP      66     22 → 41726 [ACK] Seq=2753 Ack=2625 Win=1002 Len=0 TSval=1624518936 TSecr=2271091419
+
+Frame 165: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00)
+Internet Protocol Version 4, Src: 10.0.1.2, Dst: 10.0.1.1
+Transmission Control Protocol, Src Port: 22, Dst Port: 41726, Seq: 2753, Ack: 2625, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    166 44.152983      0.0.0.0               255.255.255.255       DHCP     342    DHCP Discover - Transaction ID 0x7ac6c7be
+
+Frame 166: 342 bytes on wire (2736 bits), 342 bytes captured (2736 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 0.0.0.0, Dst: 255.255.255.255
+User Datagram Protocol, Src Port: 68, Dst Port: 67
+Dynamic Host Configuration Protocol (Discover)
+
+No.     Time           Source                Destination           Protocol Length Info
+    167 45.309773      0.0.0.0               255.255.255.255       DHCP     342    DHCP Discover - Transaction ID 0x213a6483
+
+Frame 167: 342 bytes on wire (2736 bits), 342 bytes captured (2736 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 0.0.0.0, Dst: 255.255.255.255
+User Datagram Protocol, Src Port: 68, Dst Port: 67
+Dynamic Host Configuration Protocol (Discover)
+
+No.     Time           Source                Destination           Protocol Length Info
+    168 46.454551      0.0.0.0               255.255.255.255       DHCP     342    DHCP Discover - Transaction ID 0x213a6483
+
+Frame 168: 342 bytes on wire (2736 bits), 342 bytes captured (2736 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 0.0.0.0, Dst: 255.255.255.255
+User Datagram Protocol, Src Port: 68, Dst Port: 67
+Dynamic Host Configuration Protocol (Discover)
+
+No.     Time           Source                Destination           Protocol Length Info
+    169 48.274313      0.0.0.0               255.255.255.255       DHCP     342    DHCP Discover - Transaction ID 0x213a6483
+
+Frame 169: 342 bytes on wire (2736 bits), 342 bytes captured (2736 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 0.0.0.0, Dst: 255.255.255.255
+User Datagram Protocol, Src Port: 68, Dst Port: 67
+Dynamic Host Configuration Protocol (Discover)
+
+No.     Time           Source                Destination           Protocol Length Info
+    170 49.154604      0.0.0.0               255.255.255.255       DHCP     342    DHCP Discover - Transaction ID 0x7ac6c7be
+
+Frame 170: 342 bytes on wire (2736 bits), 342 bytes captured (2736 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 0.0.0.0, Dst: 255.255.255.255
+User Datagram Protocol, Src Port: 68, Dst Port: 67
+Dynamic Host Configuration Protocol (Discover)
+
+No.     Time           Source                Destination           Protocol Length Info
+    171 49.771254      10.0.1.1              10.0.1.2              SSH      130    Client: Encrypted packet (len=64)
+
+Frame 171: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 2625, Ack: 2753, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    172 49.772162      10.0.1.2              10.0.1.1              TCP      66     22 → 41726 [ACK] Seq=2753 Ack=2689 Win=1001 Len=0 TSval=1624525219 TSecr=2271097751
+
+Frame 172: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00)
+Internet Protocol Version 4, Src: 10.0.1.2, Dst: 10.0.1.1
+Transmission Control Protocol, Src Port: 22, Dst Port: 41726, Seq: 2753, Ack: 2689, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    173 49.772868      10.0.1.2              10.0.1.1              SSH      130    Server: Encrypted packet (len=64)
+
+Frame 173: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00)
+Internet Protocol Version 4, Src: 10.0.1.2, Dst: 10.0.1.1
+Transmission Control Protocol, Src Port: 22, Dst Port: 41726, Seq: 2753, Ack: 2689, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    174 49.773556      10.0.1.1              10.0.1.2              TCP      66     41726 → 22 [ACK] Seq=2689 Ack=2817 Win=1001 Len=0 TSval=2271097753 TSecr=1624525220
+
+Frame 174: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 2689, Ack: 2817, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    175 49.884352      10.0.1.2              10.0.1.1              SSH      130    Server: Encrypted packet (len=64)
+
+Frame 175: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00)
+Internet Protocol Version 4, Src: 10.0.1.2, Dst: 10.0.1.1
+Transmission Control Protocol, Src Port: 22, Dst Port: 41726, Seq: 2817, Ack: 2689, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    176 49.885153      10.0.1.1              10.0.1.2              TCP      66     41726 → 22 [ACK] Seq=2689 Ack=2881 Win=1000 Len=0 TSval=2271097865 TSecr=1624525332
+
+Frame 176: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 2689, Ack: 2881, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    177 50.206222      10.0.1.1              10.0.1.2              SSH      130    Client: Encrypted packet (len=64)
+
+Frame 177: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 2689, Ack: 2881, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    178 50.207195      10.0.1.2              10.0.1.1              TCP      66     22 → 41726 [ACK] Seq=2881 Ack=2753 Win=1001 Len=0 TSval=1624525654 TSecr=2271098185
+
+Frame 178: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00)
+Internet Protocol Version 4, Src: 10.0.1.2, Dst: 10.0.1.1
+Transmission Control Protocol, Src Port: 22, Dst Port: 41726, Seq: 2881, Ack: 2753, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    179 50.208170      10.0.1.2              10.0.1.1              SSH      130    Server: Encrypted packet (len=64)
+
+Frame 179: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00)
+Internet Protocol Version 4, Src: 10.0.1.2, Dst: 10.0.1.1
+Transmission Control Protocol, Src Port: 22, Dst Port: 41726, Seq: 2881, Ack: 2753, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    180 50.209229      10.0.1.1              10.0.1.2              TCP      66     41726 → 22 [ACK] Seq=2753 Ack=2945 Win=1001 Len=0 TSval=2271098188 TSecr=1624525655
+
+Frame 180: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 2753, Ack: 2945, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    181 50.314698      10.0.1.2              10.0.1.1              SSH      130    Server: Encrypted packet (len=64)
+
+Frame 181: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00)
+Internet Protocol Version 4, Src: 10.0.1.2, Dst: 10.0.1.1
+Transmission Control Protocol, Src Port: 22, Dst Port: 41726, Seq: 2945, Ack: 2753, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    182 50.315922      10.0.1.1              10.0.1.2              TCP      66     41726 → 22 [ACK] Seq=2753 Ack=3009 Win=1000 Len=0 TSval=2271098295 TSecr=1624525761
+
+Frame 182: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 2753, Ack: 3009, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    183 50.381221      10.0.1.1              10.0.1.2              SSH      130    Client: Encrypted packet (len=64)
+
+Frame 183: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 2753, Ack: 3009, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    184 50.382627      10.0.1.2              10.0.1.1              TCP      66     22 → 41726 [ACK] Seq=3009 Ack=2817 Win=1001 Len=0 TSval=1624525830 TSecr=2271098360
+
+Frame 184: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00)
+Internet Protocol Version 4, Src: 10.0.1.2, Dst: 10.0.1.1
+Transmission Control Protocol, Src Port: 22, Dst Port: 41726, Seq: 3009, Ack: 2817, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    185 50.383444      10.0.1.2              10.0.1.1              SSH      130    Server: Encrypted packet (len=64)
+
+Frame 185: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00)
+Internet Protocol Version 4, Src: 10.0.1.2, Dst: 10.0.1.1
+Transmission Control Protocol, Src Port: 22, Dst Port: 41726, Seq: 3009, Ack: 2817, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    186 50.384181      10.0.1.1              10.0.1.2              TCP      66     41726 → 22 [ACK] Seq=2817 Ack=3073 Win=1001 Len=0 TSval=2271098364 TSecr=1624525831
+
+Frame 186: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 2817, Ack: 3073, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    187 50.488765      10.0.1.2              10.0.1.1              SSH      130    Server: Encrypted packet (len=64)
+
+Frame 187: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00)
+Internet Protocol Version 4, Src: 10.0.1.2, Dst: 10.0.1.1
+Transmission Control Protocol, Src Port: 22, Dst Port: 41726, Seq: 3073, Ack: 2817, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    188 50.493870      10.0.1.1              10.0.1.2              TCP      66     41726 → 22 [ACK] Seq=2817 Ack=3137 Win=1000 Len=0 TSval=2271098470 TSecr=1624525936
+
+Frame 188: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 2817, Ack: 3137, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    189 50.506002      10.0.1.1              10.0.1.2              SSH      130    Client: Encrypted packet (len=64)
+
+Frame 189: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 2817, Ack: 3137, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    190 50.507503      10.0.1.2              10.0.1.1              SSH      130    Server: Encrypted packet (len=64)
+
+Frame 190: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00)
+Internet Protocol Version 4, Src: 10.0.1.2, Dst: 10.0.1.1
+Transmission Control Protocol, Src Port: 22, Dst Port: 41726, Seq: 3137, Ack: 2881, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    191 50.508795      10.0.1.1              10.0.1.2              TCP      66     41726 → 22 [ACK] Seq=2881 Ack=3201 Win=1001 Len=0 TSval=2271098488 TSecr=1624525955
+
+Frame 191: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 2881, Ack: 3201, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    192 50.602462      0.0.0.0               255.255.255.255       DHCP     342    DHCP Discover - Transaction ID 0x7ac6c7be
+
+Frame 192: 342 bytes on wire (2736 bits), 342 bytes captured (2736 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 0.0.0.0, Dst: 255.255.255.255
+User Datagram Protocol, Src Port: 68, Dst Port: 67
+Dynamic Host Configuration Protocol (Discover)
+
+No.     Time           Source                Destination           Protocol Length Info
+    193 50.664766      10.0.1.1              10.0.1.2              SSH      130    Client: Encrypted packet (len=64)
+
+Frame 193: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 2881, Ack: 3201, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    194 50.665399      10.0.1.2              10.0.1.1              SSH      130    Server: Encrypted packet (len=64)
+
+Frame 194: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00)
+Internet Protocol Version 4, Src: 10.0.1.2, Dst: 10.0.1.1
+Transmission Control Protocol, Src Port: 22, Dst Port: 41726, Seq: 3201, Ack: 2945, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    195 50.665708      10.0.1.1              10.0.1.2              TCP      66     41726 → 22 [ACK] Seq=2945 Ack=3265 Win=1001 Len=0 TSval=2271098645 TSecr=1624526113
+
+Frame 195: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 2945, Ack: 3265, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    196 50.773588      10.0.1.2              10.0.1.1              SSH      130    Server: Encrypted packet (len=64)
+
+Frame 196: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00)
+Internet Protocol Version 4, Src: 10.0.1.2, Dst: 10.0.1.1
+Transmission Control Protocol, Src Port: 22, Dst Port: 41726, Seq: 3265, Ack: 2945, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    197 50.775380      10.0.1.1              10.0.1.2              TCP      66     41726 → 22 [ACK] Seq=2945 Ack=3329 Win=1000 Len=0 TSval=2271098755 TSecr=1624526221
+
+Frame 197: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 2945, Ack: 3329, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    198 50.831260      10.0.1.1              10.0.1.2              SSH      130    Client: Encrypted packet (len=64)
+
+Frame 198: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 2945, Ack: 3329, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    199 50.833171      10.0.1.2              10.0.1.1              SSH      130    Server: Encrypted packet (len=64)
+
+Frame 199: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00)
+Internet Protocol Version 4, Src: 10.0.1.2, Dst: 10.0.1.1
+Transmission Control Protocol, Src Port: 22, Dst Port: 41726, Seq: 3329, Ack: 3009, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    200 50.834421      10.0.1.1              10.0.1.2              TCP      66     41726 → 22 [ACK] Seq=3009 Ack=3393 Win=1001 Len=0 TSval=2271098813 TSecr=1624526280
+
+Frame 200: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 3009, Ack: 3393, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    201 50.947611      10.0.1.2              10.0.1.1              SSH      130    Server: Encrypted packet (len=64)
+
+Frame 201: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00)
+Internet Protocol Version 4, Src: 10.0.1.2, Dst: 10.0.1.1
+Transmission Control Protocol, Src Port: 22, Dst Port: 41726, Seq: 3393, Ack: 3009, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    202 50.948948      10.0.1.1              10.0.1.2              TCP      66     41726 → 22 [ACK] Seq=3009 Ack=3457 Win=1000 Len=0 TSval=2271098928 TSecr=1624526395
+
+Frame 202: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 3009, Ack: 3457, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    203 50.955696      10.0.1.1              10.0.1.2              SSH      130    Client: Encrypted packet (len=64)
+
+Frame 203: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 3009, Ack: 3457, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    204 50.957887      10.0.1.2              10.0.1.1              SSH      130    Server: Encrypted packet (len=64)
+
+Frame 204: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00)
+Internet Protocol Version 4, Src: 10.0.1.2, Dst: 10.0.1.1
+Transmission Control Protocol, Src Port: 22, Dst Port: 41726, Seq: 3457, Ack: 3073, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    205 51.003270      10.0.1.1              10.0.1.2              TCP      66     41726 → 22 [ACK] Seq=3073 Ack=3521 Win=1002 Len=0 TSval=2271098982 TSecr=1624526405
+
+Frame 205: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 3073, Ack: 3521, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    206 51.059653      10.0.1.2              10.0.1.1              SSH      130    Server: Encrypted packet (len=64)
+
+Frame 206: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00)
+Internet Protocol Version 4, Src: 10.0.1.2, Dst: 10.0.1.1
+Transmission Control Protocol, Src Port: 22, Dst Port: 41726, Seq: 3521, Ack: 3073, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    207 51.061330      10.0.1.1              10.0.1.2              TCP      66     41726 → 22 [ACK] Seq=3073 Ack=3585 Win=1001 Len=0 TSval=2271099040 TSecr=1624526507
+
+Frame 207: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 3073, Ack: 3585, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    208 51.118292      10.0.1.1              10.0.1.2              SSH      130    Client: Encrypted packet (len=64)
+
+Frame 208: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 3073, Ack: 3585, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    209 51.119528      10.0.1.2              10.0.1.1              SSH      130    Server: Encrypted packet (len=64)
+
+Frame 209: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00)
+Internet Protocol Version 4, Src: 10.0.1.2, Dst: 10.0.1.1
+Transmission Control Protocol, Src Port: 22, Dst Port: 41726, Seq: 3585, Ack: 3137, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    210 51.120356      10.0.1.1              10.0.1.2              TCP      66     41726 → 22 [ACK] Seq=3137 Ack=3649 Win=1002 Len=0 TSval=2271099100 TSecr=1624526567
+
+Frame 210: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 3137, Ack: 3649, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    211 51.204351      10.0.1.1              10.0.1.2              SSH      130    Client: Encrypted packet (len=64)
+
+Frame 211: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 3137, Ack: 3649, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    212 51.206021      10.0.1.2              10.0.1.1              SSH      130    Server: Encrypted packet (len=64)
+
+Frame 212: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00)
+Internet Protocol Version 4, Src: 10.0.1.2, Dst: 10.0.1.1
+Transmission Control Protocol, Src Port: 22, Dst Port: 41726, Seq: 3649, Ack: 3201, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    213 51.207049      10.0.1.1              10.0.1.2              TCP      66     41726 → 22 [ACK] Seq=3201 Ack=3713 Win=1002 Len=0 TSval=2271099186 TSecr=1624526653
+
+Frame 213: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 3201, Ack: 3713, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    214 51.310067      10.0.1.2              10.0.1.1              SSH      130    Server: Encrypted packet (len=64)
+
+Frame 214: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00)
+Internet Protocol Version 4, Src: 10.0.1.2, Dst: 10.0.1.1
+Transmission Control Protocol, Src Port: 22, Dst Port: 41726, Seq: 3713, Ack: 3201, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    215 51.311548      10.0.1.1              10.0.1.2              TCP      66     41726 → 22 [ACK] Seq=3201 Ack=3777 Win=1002 Len=0 TSval=2271099291 TSecr=1624526757
+
+Frame 215: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 3201, Ack: 3777, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    216 51.414469      10.0.1.1              10.0.1.2              SSH      130    Client: Encrypted packet (len=64)
+
+Frame 216: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 3201, Ack: 3777, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    217 51.415499      10.0.1.2              10.0.1.1              SSH      130    Server: Encrypted packet (len=64)
+
+Frame 217: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00)
+Internet Protocol Version 4, Src: 10.0.1.2, Dst: 10.0.1.1
+Transmission Control Protocol, Src Port: 22, Dst Port: 41726, Seq: 3777, Ack: 3265, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    218 51.416201      10.0.1.1              10.0.1.2              TCP      66     41726 → 22 [ACK] Seq=3265 Ack=3841 Win=1002 Len=0 TSval=2271099396 TSecr=1624526863
+
+Frame 218: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 3265, Ack: 3841, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    219 51.516180      10.0.1.2              10.0.1.1              SSH      130    Server: Encrypted packet (len=64)
+
+Frame 219: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00)
+Internet Protocol Version 4, Src: 10.0.1.2, Dst: 10.0.1.1
+Transmission Control Protocol, Src Port: 22, Dst Port: 41726, Seq: 3841, Ack: 3265, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    220 51.516636      10.0.1.1              10.0.1.2              TCP      66     41726 → 22 [ACK] Seq=3265 Ack=3905 Win=1002 Len=0 TSval=2271099496 TSecr=1624526963
+
+Frame 220: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 3265, Ack: 3905, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    221 51.574360      10.0.1.1              10.0.1.2              SSH      130    Client: Encrypted packet (len=64)
+
+Frame 221: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 3265, Ack: 3905, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    222 51.575078      10.0.1.2              10.0.1.1              SSH      130    Server: Encrypted packet (len=64)
+
+Frame 222: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00)
+Internet Protocol Version 4, Src: 10.0.1.2, Dst: 10.0.1.1
+Transmission Control Protocol, Src Port: 22, Dst Port: 41726, Seq: 3905, Ack: 3329, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    223 51.575515      10.0.1.1              10.0.1.2              TCP      66     41726 → 22 [ACK] Seq=3329 Ack=3969 Win=1002 Len=0 TSval=2271099555 TSecr=1624527023
+
+Frame 223: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 3329, Ack: 3969, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    224 51.692903      10.0.1.2              10.0.1.1              SSH      130    Server: Encrypted packet (len=64)
+
+Frame 224: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00)
+Internet Protocol Version 4, Src: 10.0.1.2, Dst: 10.0.1.1
+Transmission Control Protocol, Src Port: 22, Dst Port: 41726, Seq: 3969, Ack: 3329, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    225 51.695140      10.0.1.1              10.0.1.2              TCP      66     41726 → 22 [ACK] Seq=3329 Ack=4033 Win=1002 Len=0 TSval=2271099673 TSecr=1624527140
+
+Frame 225: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 3329, Ack: 4033, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    226 51.750558      10.0.1.1              10.0.1.2              SSH      130    Client: Encrypted packet (len=64)
+
+Frame 226: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 3329, Ack: 4033, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    227 51.752006      10.0.1.2              10.0.1.1              SSH      130    Server: Encrypted packet (len=64)
+
+Frame 227: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00)
+Internet Protocol Version 4, Src: 10.0.1.2, Dst: 10.0.1.1
+Transmission Control Protocol, Src Port: 22, Dst Port: 41726, Seq: 4033, Ack: 3393, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    228 51.752935      10.0.1.1              10.0.1.2              TCP      66     41726 → 22 [ACK] Seq=3393 Ack=4097 Win=1002 Len=0 TSval=2271099732 TSecr=1624527199
+
+Frame 228: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 3393, Ack: 4097, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    229 51.811926      0.0.0.0               255.255.255.255       DHCP     342    DHCP Discover - Transaction ID 0x213a6483
+
+Frame 229: 342 bytes on wire (2736 bits), 342 bytes captured (2736 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 0.0.0.0, Dst: 255.255.255.255
+User Datagram Protocol, Src Port: 68, Dst Port: 67
+Dynamic Host Configuration Protocol (Discover)
+
+No.     Time           Source                Destination           Protocol Length Info
+    230 51.911759      10.0.1.1              10.0.1.2              SSH      130    Client: Encrypted packet (len=64)
+
+Frame 230: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 3393, Ack: 4097, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    231 51.913864      10.0.1.2              10.0.1.1              SSH      130    Server: Encrypted packet (len=64)
+
+Frame 231: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00)
+Internet Protocol Version 4, Src: 10.0.1.2, Dst: 10.0.1.1
+Transmission Control Protocol, Src Port: 22, Dst Port: 41726, Seq: 4097, Ack: 3457, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    232 51.915711      10.0.1.1              10.0.1.2              TCP      66     41726 → 22 [ACK] Seq=3457 Ack=4161 Win=1002 Len=0 TSval=2271099895 TSecr=1624527361
+
+Frame 232: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 3457, Ack: 4161, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    233 52.002996      10.0.1.1              10.0.1.2              SSH      130    Client: Encrypted packet (len=64)
+
+Frame 233: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 3457, Ack: 4161, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    234 52.004961      10.0.1.2              10.0.1.1              SSH      130    Server: Encrypted packet (len=64)
+
+Frame 234: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00)
+Internet Protocol Version 4, Src: 10.0.1.2, Dst: 10.0.1.1
+Transmission Control Protocol, Src Port: 22, Dst Port: 41726, Seq: 4161, Ack: 3521, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    235 52.006387      10.0.1.1              10.0.1.2              TCP      66     41726 → 22 [ACK] Seq=3521 Ack=4225 Win=1002 Len=0 TSval=2271099985 TSecr=1624527452
+
+Frame 235: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 3521, Ack: 4225, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    236 52.075054      10.0.1.1              10.0.1.2              SSH      130    Client: Encrypted packet (len=64)
+
+Frame 236: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 3521, Ack: 4225, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    237 52.076636      10.0.1.2              10.0.1.1              SSH      130    Server: Encrypted packet (len=64)
+
+Frame 237: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00)
+Internet Protocol Version 4, Src: 10.0.1.2, Dst: 10.0.1.1
+Transmission Control Protocol, Src Port: 22, Dst Port: 41726, Seq: 4225, Ack: 3585, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    238 52.077869      10.0.1.1              10.0.1.2              TCP      66     41726 → 22 [ACK] Seq=3585 Ack=4289 Win=1002 Len=0 TSval=2271100057 TSecr=1624527524
+
+Frame 238: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 3585, Ack: 4289, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    239 52.180724      10.0.1.2              10.0.1.1              SSH      146    Server: Encrypted packet (len=80)
+
+Frame 239: 146 bytes on wire (1168 bits), 146 bytes captured (1168 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00)
+Internet Protocol Version 4, Src: 10.0.1.2, Dst: 10.0.1.1
+Transmission Control Protocol, Src Port: 22, Dst Port: 41726, Seq: 4289, Ack: 3585, Len: 80
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    240 52.181886      10.0.1.1              10.0.1.2              SSH      130    Client: Encrypted packet (len=64)
+
+Frame 240: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 3585, Ack: 4369, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    241 52.182935      10.0.1.2              10.0.1.1              SSH      130    Server: Encrypted packet (len=64)
+
+Frame 241: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00)
+Internet Protocol Version 4, Src: 10.0.1.2, Dst: 10.0.1.1
+Transmission Control Protocol, Src Port: 22, Dst Port: 41726, Seq: 4369, Ack: 3649, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    242 52.186305      10.0.1.1              10.0.1.2              TCP      66     41726 → 22 [ACK] Seq=3649 Ack=4433 Win=1002 Len=0 TSval=2271100166 TSecr=1624527630
+
+Frame 242: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 3649, Ack: 4433, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    243 52.285837      10.0.1.2              10.0.1.1              SSH      130    Server: Encrypted packet (len=64)
+
+Frame 243: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00)
+Internet Protocol Version 4, Src: 10.0.1.2, Dst: 10.0.1.1
+Transmission Control Protocol, Src Port: 22, Dst Port: 41726, Seq: 4433, Ack: 3649, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    244 52.285837      10.0.1.1              10.0.1.2              SSH      130    Client: Encrypted packet (len=64)
+
+Frame 244: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 3649, Ack: 4433, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    245 52.286398      10.0.1.1              10.0.1.2              TCP      66     41726 → 22 [ACK] Seq=3713 Ack=4497 Win=1002 Len=0 TSval=2271100266 TSecr=1624527733
+
+Frame 245: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 3713, Ack: 4497, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    246 52.286608      10.0.1.2              10.0.1.1              SSH      130    Server: Encrypted packet (len=64)
+
+Frame 246: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00)
+Internet Protocol Version 4, Src: 10.0.1.2, Dst: 10.0.1.1
+Transmission Control Protocol, Src Port: 22, Dst Port: 41726, Seq: 4497, Ack: 3713, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    247 52.287442      10.0.1.1              10.0.1.2              TCP      66     41726 → 22 [ACK] Seq=3713 Ack=4561 Win=1002 Len=0 TSval=2271100267 TSecr=1624527734
+
+Frame 247: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 3713, Ack: 4561, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    248 52.395364      10.0.1.2              10.0.1.1              SSH      130    Server: Encrypted packet (len=64)
+
+Frame 248: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00)
+Internet Protocol Version 4, Src: 10.0.1.2, Dst: 10.0.1.1
+Transmission Control Protocol, Src Port: 22, Dst Port: 41726, Seq: 4561, Ack: 3713, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    249 52.399351      10.0.1.1              10.0.1.2              TCP      66     41726 → 22 [ACK] Seq=3713 Ack=4625 Win=1002 Len=0 TSval=2271100376 TSecr=1624527842
+
+Frame 249: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 3713, Ack: 4625, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    250 52.452645      10.0.1.1              10.0.1.2              SSH      130    Client: Encrypted packet (len=64)
+
+Frame 250: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 3713, Ack: 4625, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    251 52.458408      10.0.1.2              10.0.1.1              SSH      130    Server: Encrypted packet (len=64)
+
+Frame 251: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00)
+Internet Protocol Version 4, Src: 10.0.1.2, Dst: 10.0.1.1
+Transmission Control Protocol, Src Port: 22, Dst Port: 41726, Seq: 4625, Ack: 3777, Len: 64
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    252 52.459011      10.0.1.1              10.0.1.2              TCP      66     41726 → 22 [ACK] Seq=3777 Ack=4689 Win=1002 Len=0 TSval=2271100439 TSecr=1624527906
+
+Frame 252: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 3777, Ack: 4689, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    253 52.459823      10.0.1.2              10.0.1.1              SSH      354    Server: Encrypted packet (len=288)
+
+Frame 253: 354 bytes on wire (2832 bits), 354 bytes captured (2832 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00)
+Internet Protocol Version 4, Src: 10.0.1.2, Dst: 10.0.1.1
+Transmission Control Protocol, Src Port: 22, Dst Port: 41726, Seq: 4689, Ack: 3777, Len: 288
+SSH Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    254 52.461050      10.0.1.1              10.0.1.2              TCP      66     41726 → 22 [ACK] Seq=3777 Ack=4977 Win=1002 Len=0 TSval=2271100441 TSecr=1624527907
+
+Frame 254: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 10.0.1.2
+Transmission Control Protocol, Src Port: 41726, Dst Port: 22, Seq: 3777, Ack: 4977, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    255 56.613849      0.0.0.0               255.255.255.255       DHCP     342    DHCP Discover - Transaction ID 0x213a6483
+
+Frame 255: 342 bytes on wire (2736 bits), 342 bytes captured (2736 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 0.0.0.0, Dst: 255.255.255.255
+User Datagram Protocol, Src Port: 68, Dst Port: 67
+Dynamic Host Configuration Protocol (Discover)
+
+No.     Time           Source                Destination           Protocol Length Info
+    256 57.209624      0.0.0.0               255.255.255.255       DHCP     342    DHCP Discover - Transaction ID 0x7ac6c7be
+
+Frame 256: 342 bytes on wire (2736 bits), 342 bytes captured (2736 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 0.0.0.0, Dst: 255.255.255.255
+User Datagram Protocol, Src Port: 68, Dst Port: 67
+Dynamic Host Configuration Protocol (Discover)
+
+No.     Time           Source                Destination           Protocol Length Info
+    257 59.665905      0.0.0.0               255.255.255.255       DHCP     342    DHCP Discover - Transaction ID 0x213a6483
+
+Frame 257: 342 bytes on wire (2736 bits), 342 bytes captured (2736 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 0.0.0.0, Dst: 255.255.255.255
+User Datagram Protocol, Src Port: 68, Dst Port: 67
+Dynamic Host Configuration Protocol (Discover)
+
+No.     Time           Source                Destination           Protocol Length Info
+    258 62.113691      0.0.0.0               255.255.255.255       DHCP     342    DHCP Discover - Transaction ID 0x7ac6c7be
+
+Frame 258: 342 bytes on wire (2736 bits), 342 bytes captured (2736 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 0.0.0.0, Dst: 255.255.255.255
+User Datagram Protocol, Src Port: 68, Dst Port: 67
+Dynamic Host Configuration Protocol (Discover)
+
+No.     Time           Source                Destination           Protocol Length Info
+    259 62.196774      0.0.0.0               255.255.255.255       DHCP     342    DHCP Discover - Transaction ID 0x213a6483
+
+Frame 259: 342 bytes on wire (2736 bits), 342 bytes captured (2736 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 0.0.0.0, Dst: 255.255.255.255
+User Datagram Protocol, Src Port: 68, Dst Port: 67
+Dynamic Host Configuration Protocol (Discover)
+
+No.     Time           Source                Destination           Protocol Length Info
+    260 63.526503      0.0.0.0               255.255.255.255       DHCP     342    DHCP Discover - Transaction ID 0x7ac6c7be
+
+Frame 260: 342 bytes on wire (2736 bits), 342 bytes captured (2736 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 0.0.0.0, Dst: 255.255.255.255
+User Datagram Protocol, Src Port: 68, Dst Port: 67
+Dynamic Host Configuration Protocol (Discover)
+
+No.     Time           Source                Destination           Protocol Length Info
+    261 63.655219      0.0.0.0               255.255.255.255       DHCP     342    DHCP Discover - Transaction ID 0x213a6483
+
+Frame 261: 342 bytes on wire (2736 bits), 342 bytes captured (2736 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 0.0.0.0, Dst: 255.255.255.255
+User Datagram Protocol, Src Port: 68, Dst Port: 67
+Dynamic Host Configuration Protocol (Discover)
+
+No.     Time           Source                Destination           Protocol Length Info
+    262 65.058720      0.0.0.0               255.255.255.255       DHCP     342    DHCP Discover - Transaction ID 0x213a6483
+
+Frame 262: 342 bytes on wire (2736 bits), 342 bytes captured (2736 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 0.0.0.0, Dst: 255.255.255.255
+User Datagram Protocol, Src Port: 68, Dst Port: 67
+Dynamic Host Configuration Protocol (Discover)
+
+No.     Time           Source                Destination           Protocol Length Info
+    263 66.233767      0.0.0.0               255.255.255.255       DHCP     342    DHCP Discover - Transaction ID 0x7ac6c7be
+
+Frame 263: 342 bytes on wire (2736 bits), 342 bytes captured (2736 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 0.0.0.0, Dst: 255.255.255.255
+User Datagram Protocol, Src Port: 68, Dst Port: 67
+Dynamic Host Configuration Protocol (Discover)
+
+No.     Time           Source                Destination           Protocol Length Info
+    264 71.199191      0.0.0.0               255.255.255.255       DHCP     342    DHCP Discover - Transaction ID 0x213a6483
+
+Frame 264: 342 bytes on wire (2736 bits), 342 bytes captured (2736 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 0.0.0.0, Dst: 255.255.255.255
+User Datagram Protocol, Src Port: 68, Dst Port: 67
+Dynamic Host Configuration Protocol (Discover)
+
+No.     Time           Source                Destination           Protocol Length Info
+    265 71.743278      0.0.0.0               255.255.255.255       DHCP     342    DHCP Discover - Transaction ID 0x7ac6c7be
+
+Frame 265: 342 bytes on wire (2736 bits), 342 bytes captured (2736 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 0.0.0.0, Dst: 255.255.255.255
+User Datagram Protocol, Src Port: 68, Dst Port: 67
+Dynamic Host Configuration Protocol (Discover)
+
+No.     Time           Source                Destination           Protocol Length Info
+    266 76.490764      0.0.0.0               255.255.255.255       DHCP     342    DHCP Discover - Transaction ID 0x213a6483
+
+Frame 266: 342 bytes on wire (2736 bits), 342 bytes captured (2736 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 0.0.0.0, Dst: 255.255.255.255
+User Datagram Protocol, Src Port: 68, Dst Port: 67
+Dynamic Host Configuration Protocol (Discover)
+
+No.     Time           Source                Destination           Protocol Length Info
+    267 76.731683      fe80::ec2:69ff:fe43:0 ff02::1               MNDP     213    5678 → 5678 Len=151
+
+Frame 267: 213 bytes on wire (1704 bits), 213 bytes captured (1704 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: IPv6mcast_01 (33:33:00:00:00:01)
+Internet Protocol Version 6, Src: fe80::ec2:69ff:fe43:0, Dst: ff02::1
+User Datagram Protocol, Src Port: 5678, Dst Port: 5678
+Mikrotik Neighbor Discovery Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    268 76.731776      10.0.1.1              255.255.255.255       MNDP     193    5678 → 5678 Len=151
+
+Frame 268: 193 bytes on wire (1544 bits), 193 bytes captured (1544 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 255.255.255.255
+User Datagram Protocol, Src Port: 5678, Dst Port: 5678
+Mikrotik Neighbor Discovery Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    269 76.731799      0c:c2:69:43:00:00     CDP/VTP/DTP/PAgP/UDLD CDP      125    Device ID: MikroTik  Port ID: ether1  
+
+Frame 269: 125 bytes on wire (1000 bits), 125 bytes captured (1000 bits) on interface -, id 0
+IEEE 802.3 Ethernet 
+Logical-Link Control
+Cisco Discovery Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    270 76.731821      0c:c2:69:43:00:00     LLDP_Multicast        LLDP     154    MA/0c:c2:69:43:00:00 IN/ether1 120 SysN=MikroTik SysD=MikroTik RouterOS 7.11.2 (stable) Aug/31/2023 13:55:47 CHR 
+
+Frame 270: 154 bytes on wire (1232 bits), 154 bytes captured (1232 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: LLDP_Multicast (01:80:c2:00:00:0e)
+Link Layer Discovery Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    271 76.860913      fe80::e5d:2eff:fe8e:0 ff02::1               MNDP     213    5678 → 5678 Len=151
+
+Frame 271: 213 bytes on wire (1704 bits), 213 bytes captured (1704 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: IPv6mcast_01 (33:33:00:00:00:01)
+Internet Protocol Version 6, Src: fe80::e5d:2eff:fe8e:0, Dst: ff02::1
+User Datagram Protocol, Src Port: 5678, Dst Port: 5678
+Mikrotik Neighbor Discovery Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    272 76.861015      10.0.1.2              255.255.255.255       MNDP     193    5678 → 5678 Len=151
+
+Frame 272: 193 bytes on wire (1544 bits), 193 bytes captured (1544 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 10.0.1.2, Dst: 255.255.255.255
+User Datagram Protocol, Src Port: 5678, Dst Port: 5678
+Mikrotik Neighbor Discovery Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    273 76.861041      0c:5d:2e:8e:00:00     CDP/VTP/DTP/PAgP/UDLD CDP      125    Device ID: MikroTik  Port ID: ether1  
+
+Frame 273: 125 bytes on wire (1000 bits), 125 bytes captured (1000 bits) on interface -, id 0
+IEEE 802.3 Ethernet 
+Logical-Link Control
+Cisco Discovery Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    274 76.861117      0c:5d:2e:8e:00:00     LLDP_Multicast        LLDP     154    MA/0c:5d:2e:8e:00:00 IN/ether1 120 SysN=MikroTik SysD=MikroTik RouterOS 7.11.2 (stable) Aug/31/2023 13:55:47 CHR 
+
+Frame 274: 154 bytes on wire (1232 bits), 154 bytes captured (1232 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: LLDP_Multicast (01:80:c2:00:00:0e)
+Link Layer Discovery Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    275 78.175929      0.0.0.0               255.255.255.255       DHCP     342    DHCP Discover - Transaction ID 0x7ac6c7be
+
+Frame 275: 342 bytes on wire (2736 bits), 342 bytes captured (2736 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 0.0.0.0, Dst: 255.255.255.255
+User Datagram Protocol, Src Port: 68, Dst Port: 67
+Dynamic Host Configuration Protocol (Discover)
+
+No.     Time           Source                Destination           Protocol Length Info
+    276 80.552263      0.0.0.0               255.255.255.255       DHCP     342    DHCP Discover - Transaction ID 0x7ac6c7be
+
+Frame 276: 342 bytes on wire (2736 bits), 342 bytes captured (2736 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 0.0.0.0, Dst: 255.255.255.255
+User Datagram Protocol, Src Port: 68, Dst Port: 67
+Dynamic Host Configuration Protocol (Discover)
+
+No.     Time           Source                Destination           Protocol Length Info
+    277 81.539390      0.0.0.0               255.255.255.255       DHCP     342    DHCP Discover - Transaction ID 0x213a6483
+
+Frame 277: 342 bytes on wire (2736 bits), 342 bytes captured (2736 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 0.0.0.0, Dst: 255.255.255.255
+User Datagram Protocol, Src Port: 68, Dst Port: 67
+Dynamic Host Configuration Protocol (Discover)
+
+No.     Time           Source                Destination           Protocol Length Info
+    278 83.116297      0.0.0.0               255.255.255.255       DHCP     342    DHCP Discover - Transaction ID 0x7ac6c7be
+
+Frame 278: 342 bytes on wire (2736 bits), 342 bytes captured (2736 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 0.0.0.0, Dst: 255.255.255.255
+User Datagram Protocol, Src Port: 68, Dst Port: 67
+Dynamic Host Configuration Protocol (Discover)
+
+No.     Time           Source                Destination           Protocol Length Info
+    279 84.682192      0.0.0.0               255.255.255.255       DHCP     342    DHCP Discover - Transaction ID 0x213a6483
+
+Frame 279: 342 bytes on wire (2736 bits), 342 bytes captured (2736 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 0.0.0.0, Dst: 255.255.255.255
+User Datagram Protocol, Src Port: 68, Dst Port: 67
+Dynamic Host Configuration Protocol (Discover)
+
+No.     Time           Source                Destination           Protocol Length Info
+    280 87.529060      0.0.0.0               255.255.255.255       DHCP     342    DHCP Discover - Transaction ID 0x7ac6c7be
+
+Frame 280: 342 bytes on wire (2736 bits), 342 bytes captured (2736 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 0.0.0.0, Dst: 255.255.255.255
+User Datagram Protocol, Src Port: 68, Dst Port: 67
+Dynamic Host Configuration Protocol (Discover)
+
+No.     Time           Source                Destination           Protocol Length Info
+    281 89.012184      0.0.0.0               255.255.255.255       DHCP     342    DHCP Discover - Transaction ID 0x213a6483
+
+Frame 281: 342 bytes on wire (2736 bits), 342 bytes captured (2736 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 0.0.0.0, Dst: 255.255.255.255
+User Datagram Protocol, Src Port: 68, Dst Port: 67
+Dynamic Host Configuration Protocol (Discover)
+
+No.     Time           Source                Destination           Protocol Length Info
+    282 90.153338      0.0.0.0               255.255.255.255       DHCP     342    DHCP Discover - Transaction ID 0x7ac6c7be
+
+Frame 282: 342 bytes on wire (2736 bits), 342 bytes captured (2736 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 0.0.0.0, Dst: 255.255.255.255
+User Datagram Protocol, Src Port: 68, Dst Port: 67
+Dynamic Host Configuration Protocol (Discover)
+
+No.     Time           Source                Destination           Protocol Length Info
+    283 93.991302      0.0.0.0               255.255.255.255       DHCP     342    DHCP Discover - Transaction ID 0x213a6483
+
+Frame 283: 342 bytes on wire (2736 bits), 342 bytes captured (2736 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 0.0.0.0, Dst: 255.255.255.255
+User Datagram Protocol, Src Port: 68, Dst Port: 67
+Dynamic Host Configuration Protocol (Discover)
+
+No.     Time           Source                Destination           Protocol Length Info
+    284 94.452930      0.0.0.0               255.255.255.255       DHCP     342    DHCP Discover - Transaction ID 0x7ac6c7be
+
+Frame 284: 342 bytes on wire (2736 bits), 342 bytes captured (2736 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 0.0.0.0, Dst: 255.255.255.255
+User Datagram Protocol, Src Port: 68, Dst Port: 67
+Dynamic Host Configuration Protocol (Discover)
+
+No.     Time           Source                Destination           Protocol Length Info
+    285 98.068698      0.0.0.0               255.255.255.255       DHCP     342    DHCP Discover - Transaction ID 0x213a6483
+
+Frame 285: 342 bytes on wire (2736 bits), 342 bytes captured (2736 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 0.0.0.0, Dst: 255.255.255.255
+User Datagram Protocol, Src Port: 68, Dst Port: 67
+Dynamic Host Configuration Protocol (Discover)
+
+No.     Time           Source                Destination           Protocol Length Info
+    286 98.807933      0.0.0.0               255.255.255.255       DHCP     342    DHCP Discover - Transaction ID 0x7ac6c7be
+
+Frame 286: 342 bytes on wire (2736 bits), 342 bytes captured (2736 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 0.0.0.0, Dst: 255.255.255.255
+User Datagram Protocol, Src Port: 68, Dst Port: 67
+Dynamic Host Configuration Protocol (Discover)
+
+No.     Time           Source                Destination           Protocol Length Info
+    287 99.677343      0.0.0.0               255.255.255.255       DHCP     342    DHCP Discover - Transaction ID 0x213a6483
+
+Frame 287: 342 bytes on wire (2736 bits), 342 bytes captured (2736 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 0.0.0.0, Dst: 255.255.255.255
+User Datagram Protocol, Src Port: 68, Dst Port: 67
+Dynamic Host Configuration Protocol (Discover)
+
+No.     Time           Source                Destination           Protocol Length Info
+    288 101.042214     0.0.0.0               255.255.255.255       DHCP     342    DHCP Discover - Transaction ID 0xd3889ef8
+
+Frame 288: 342 bytes on wire (2736 bits), 342 bytes captured (2736 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 0.0.0.0, Dst: 255.255.255.255
+User Datagram Protocol, Src Port: 68, Dst Port: 67
+Dynamic Host Configuration Protocol (Discover)
+
+No.     Time           Source                Destination           Protocol Length Info
+    289 102.047952     0.0.0.0               255.255.255.255       DHCP     342    DHCP Discover - Transaction ID 0x5822cee9
+
+Frame 289: 342 bytes on wire (2736 bits), 342 bytes captured (2736 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 0.0.0.0, Dst: 255.255.255.255
+User Datagram Protocol, Src Port: 68, Dst Port: 67
+Dynamic Host Configuration Protocol (Discover)
+
+No.     Time           Source                Destination           Protocol Length Info
+    290 103.056843     0.0.0.0               255.255.255.255       DHCP     342    DHCP Discover - Transaction ID 0x5822cee9
+
+Frame 290: 342 bytes on wire (2736 bits), 342 bytes captured (2736 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 0.0.0.0, Dst: 255.255.255.255
+User Datagram Protocol, Src Port: 68, Dst Port: 67
+Dynamic Host Configuration Protocol (Discover)
+
+No.     Time           Source                Destination           Protocol Length Info
+    291 104.097562     0.0.0.0               255.255.255.255       DHCP     342    DHCP Discover - Transaction ID 0x9845ed5f
+
+Frame 291: 342 bytes on wire (2736 bits), 342 bytes captured (2736 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 0.0.0.0, Dst: 255.255.255.255
+User Datagram Protocol, Src Port: 68, Dst Port: 67
+Dynamic Host Configuration Protocol (Discover)
+
+No.     Time           Source                Destination           Protocol Length Info
+    292 104.291055     0.0.0.0               255.255.255.255       DHCP     342    DHCP Discover - Transaction ID 0x5822cee9
+
+Frame 292: 342 bytes on wire (2736 bits), 342 bytes captured (2736 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 0.0.0.0, Dst: 255.255.255.255
+User Datagram Protocol, Src Port: 68, Dst Port: 67
+Dynamic Host Configuration Protocol (Discover)
+
+No.     Time           Source                Destination           Protocol Length Info
+    293 105.105118     0.0.0.0               255.255.255.255       DHCP     342    DHCP Discover - Transaction ID 0x24b847d7
+
+Frame 293: 342 bytes on wire (2736 bits), 342 bytes captured (2736 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 0.0.0.0, Dst: 255.255.255.255
+User Datagram Protocol, Src Port: 68, Dst Port: 67
+Dynamic Host Configuration Protocol (Discover)
+
+No.     Time           Source                Destination           Protocol Length Info
+    294 106.109655     0.0.0.0               255.255.255.255       DHCP     342    DHCP Discover - Transaction ID 0x24b847d7
+
+Frame 294: 342 bytes on wire (2736 bits), 342 bytes captured (2736 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 0.0.0.0, Dst: 255.255.255.255
+User Datagram Protocol, Src Port: 68, Dst Port: 67
+Dynamic Host Configuration Protocol (Discover)
+
+No.     Time           Source                Destination           Protocol Length Info
+    295 107.808597     0.0.0.0               255.255.255.255       DHCP     342    DHCP Discover - Transaction ID 0x24b847d7
+
+Frame 295: 342 bytes on wire (2736 bits), 342 bytes captured (2736 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 0.0.0.0, Dst: 255.255.255.255
+User Datagram Protocol, Src Port: 68, Dst Port: 67
+Dynamic Host Configuration Protocol (Discover)
+
+No.     Time           Source                Destination           Protocol Length Info
+    296 108.373609     0.0.0.0               255.255.255.255       DHCP     342    DHCP Discover - Transaction ID 0x5822cee9
+
+Frame 296: 342 bytes on wire (2736 bits), 342 bytes captured (2736 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 0.0.0.0, Dst: 255.255.255.255
+User Datagram Protocol, Src Port: 68, Dst Port: 67
+Dynamic Host Configuration Protocol (Discover)
+
+No.     Time           Source                Destination           Protocol Length Info
+    297 111.963854     0.0.0.0               255.255.255.255       DHCP     342    DHCP Discover - Transaction ID 0x24b847d7
+
+Frame 297: 342 bytes on wire (2736 bits), 342 bytes captured (2736 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 0.0.0.0, Dst: 255.255.255.255
+User Datagram Protocol, Src Port: 68, Dst Port: 67
+Dynamic Host Configuration Protocol (Discover)
+
+No.     Time           Source                Destination           Protocol Length Info
+    298 114.620229     0.0.0.0               255.255.255.255       DHCP     342    DHCP Discover - Transaction ID 0x24b847d7
+
+Frame 298: 342 bytes on wire (2736 bits), 342 bytes captured (2736 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 0.0.0.0, Dst: 255.255.255.255
+User Datagram Protocol, Src Port: 68, Dst Port: 67
+Dynamic Host Configuration Protocol (Discover)
+
+No.     Time           Source                Destination           Protocol Length Info
+    299 115.162459     0.0.0.0               255.255.255.255       DHCP     342    DHCP Discover - Transaction ID 0x5822cee9
+
+Frame 299: 342 bytes on wire (2736 bits), 342 bytes captured (2736 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 0.0.0.0, Dst: 255.255.255.255
+User Datagram Protocol, Src Port: 68, Dst Port: 67
+Dynamic Host Configuration Protocol (Discover)
+
+No.     Time           Source                Destination           Protocol Length Info
+    300 120.103577     0.0.0.0               255.255.255.255       DHCP     342    DHCP Discover - Transaction ID 0x24b847d7
+
+Frame 300: 342 bytes on wire (2736 bits), 342 bytes captured (2736 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 0.0.0.0, Dst: 255.255.255.255
+User Datagram Protocol, Src Port: 68, Dst Port: 67
+Dynamic Host Configuration Protocol (Discover)
+
+No.     Time           Source                Destination           Protocol Length Info
+    301 120.590163     0.0.0.0               255.255.255.255       DHCP     342    DHCP Discover - Transaction ID 0x5822cee9
+
+Frame 301: 342 bytes on wire (2736 bits), 342 bytes captured (2736 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 0.0.0.0, Dst: 255.255.255.255
+User Datagram Protocol, Src Port: 68, Dst Port: 67
+Dynamic Host Configuration Protocol (Discover)
+
+No.     Time           Source                Destination           Protocol Length Info
+    302 124.389516     0.0.0.0               255.255.255.255       DHCP     342    DHCP Discover - Transaction ID 0x24b847d7
+
+Frame 302: 342 bytes on wire (2736 bits), 342 bytes captured (2736 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 0.0.0.0, Dst: 255.255.255.255
+User Datagram Protocol, Src Port: 68, Dst Port: 67
+Dynamic Host Configuration Protocol (Discover)
+
+No.     Time           Source                Destination           Protocol Length Info
+    303 125.396849     0.0.0.0               255.255.255.255       DHCP     342    DHCP Discover - Transaction ID 0x24b847d7
+
+Frame 303: 342 bytes on wire (2736 bits), 342 bytes captured (2736 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 0.0.0.0, Dst: 255.255.255.255
+User Datagram Protocol, Src Port: 68, Dst Port: 67
+Dynamic Host Configuration Protocol (Discover)
+
+No.     Time           Source                Destination           Protocol Length Info
+    304 127.265005     0.0.0.0               255.255.255.255       DHCP     342    DHCP Discover - Transaction ID 0x5822cee9
+
+Frame 304: 342 bytes on wire (2736 bits), 342 bytes captured (2736 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 0.0.0.0, Dst: 255.255.255.255
+User Datagram Protocol, Src Port: 68, Dst Port: 67
+Dynamic Host Configuration Protocol (Discover)
+
+No.     Time           Source                Destination           Protocol Length Info
+    305 129.250509     0.0.0.0               255.255.255.255       DHCP     342    DHCP Discover - Transaction ID 0x5822cee9
+
+Frame 305: 342 bytes on wire (2736 bits), 342 bytes captured (2736 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 0.0.0.0, Dst: 255.255.255.255
+User Datagram Protocol, Src Port: 68, Dst Port: 67
+Dynamic Host Configuration Protocol (Discover)
+
+No.     Time           Source                Destination           Protocol Length Info
+    306 131.821082     0.0.0.0               255.255.255.255       DHCP     342    DHCP Discover - Transaction ID 0x24b847d7
+
+Frame 306: 342 bytes on wire (2736 bits), 342 bytes captured (2736 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 0.0.0.0, Dst: 255.255.255.255
+User Datagram Protocol, Src Port: 68, Dst Port: 67
+Dynamic Host Configuration Protocol (Discover)
+
+No.     Time           Source                Destination           Protocol Length Info
+    307 134.689557     0.0.0.0               255.255.255.255       DHCP     342    DHCP Discover - Transaction ID 0x5822cee9
+
+Frame 307: 342 bytes on wire (2736 bits), 342 bytes captured (2736 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 0.0.0.0, Dst: 255.255.255.255
+User Datagram Protocol, Src Port: 68, Dst Port: 67
+Dynamic Host Configuration Protocol (Discover)
+
+No.     Time           Source                Destination           Protocol Length Info
+    308 135.893568     0.0.0.0               255.255.255.255       DHCP     342    DHCP Discover - Transaction ID 0x5822cee9
+
+Frame 308: 342 bytes on wire (2736 bits), 342 bytes captured (2736 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 0.0.0.0, Dst: 255.255.255.255
+User Datagram Protocol, Src Port: 68, Dst Port: 67
+Dynamic Host Configuration Protocol (Discover)
+
+No.     Time           Source                Destination           Protocol Length Info
+    309 136.493192     0.0.0.0               255.255.255.255       DHCP     342    DHCP Discover - Transaction ID 0x24b847d7
+
+Frame 309: 342 bytes on wire (2736 bits), 342 bytes captured (2736 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 0.0.0.0, Dst: 255.255.255.255
+User Datagram Protocol, Src Port: 68, Dst Port: 67
+Dynamic Host Configuration Protocol (Discover)
+
+No.     Time           Source                Destination           Protocol Length Info
+    310 136.734570     fe80::ec2:69ff:fe43:0 ff02::1               MNDP     213    5678 → 5678 Len=151
+
+Frame 310: 213 bytes on wire (1704 bits), 213 bytes captured (1704 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: IPv6mcast_01 (33:33:00:00:00:01)
+Internet Protocol Version 6, Src: fe80::ec2:69ff:fe43:0, Dst: ff02::1
+User Datagram Protocol, Src Port: 5678, Dst Port: 5678
+Mikrotik Neighbor Discovery Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    311 136.735039     10.0.1.1              255.255.255.255       MNDP     193    5678 → 5678 Len=151
+
+Frame 311: 193 bytes on wire (1544 bits), 193 bytes captured (1544 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 10.0.1.1, Dst: 255.255.255.255
+User Datagram Protocol, Src Port: 5678, Dst Port: 5678
+Mikrotik Neighbor Discovery Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    312 136.735731     0c:c2:69:43:00:00     CDP/VTP/DTP/PAgP/UDLD CDP      125    Device ID: MikroTik  Port ID: ether1  
+
+Frame 312: 125 bytes on wire (1000 bits), 125 bytes captured (1000 bits) on interface -, id 0
+IEEE 802.3 Ethernet 
+Logical-Link Control
+Cisco Discovery Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    313 136.736153     0c:c2:69:43:00:00     LLDP_Multicast        LLDP     154    MA/0c:c2:69:43:00:00 IN/ether1 120 SysN=MikroTik SysD=MikroTik RouterOS 7.11.2 (stable) Aug/31/2023 13:55:47 CHR 
+
+Frame 313: 154 bytes on wire (1232 bits), 154 bytes captured (1232 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: LLDP_Multicast (01:80:c2:00:00:0e)
+Link Layer Discovery Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    314 136.858753     fe80::e5d:2eff:fe8e:0 ff02::1               MNDP     213    5678 → 5678 Len=151
+
+Frame 314: 213 bytes on wire (1704 bits), 213 bytes captured (1704 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: IPv6mcast_01 (33:33:00:00:00:01)
+Internet Protocol Version 6, Src: fe80::e5d:2eff:fe8e:0, Dst: ff02::1
+User Datagram Protocol, Src Port: 5678, Dst Port: 5678
+Mikrotik Neighbor Discovery Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    315 136.858942     10.0.1.2              255.255.255.255       MNDP     193    5678 → 5678 Len=151
+
+Frame 315: 193 bytes on wire (1544 bits), 193 bytes captured (1544 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 10.0.1.2, Dst: 255.255.255.255
+User Datagram Protocol, Src Port: 5678, Dst Port: 5678
+Mikrotik Neighbor Discovery Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    316 136.858979     0c:5d:2e:8e:00:00     CDP/VTP/DTP/PAgP/UDLD CDP      125    Device ID: MikroTik  Port ID: ether1  
+
+Frame 316: 125 bytes on wire (1000 bits), 125 bytes captured (1000 bits) on interface -, id 0
+IEEE 802.3 Ethernet 
+Logical-Link Control
+Cisco Discovery Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    317 136.859551     0c:5d:2e:8e:00:00     LLDP_Multicast        LLDP     154    MA/0c:5d:2e:8e:00:00 IN/ether1 120 SysN=MikroTik SysD=MikroTik RouterOS 7.11.2 (stable) Aug/31/2023 13:55:47 CHR 
+
+Frame 317: 154 bytes on wire (1232 bits), 154 bytes captured (1232 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: LLDP_Multicast (01:80:c2:00:00:0e)
+Link Layer Discovery Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    318 137.713667     0.0.0.0               255.255.255.255       DHCP     342    DHCP Discover - Transaction ID 0x24b847d7
+
+Frame 318: 342 bytes on wire (2736 bits), 342 bytes captured (2736 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 0.0.0.0, Dst: 255.255.255.255
+User Datagram Protocol, Src Port: 68, Dst Port: 67
+Dynamic Host Configuration Protocol (Discover)
+
+No.     Time           Source                Destination           Protocol Length Info
+    319 141.263853     0.0.0.0               255.255.255.255       DHCP     342    DHCP Discover - Transaction ID 0x5822cee9
+
+Frame 319: 342 bytes on wire (2736 bits), 342 bytes captured (2736 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 0.0.0.0, Dst: 255.255.255.255
+User Datagram Protocol, Src Port: 68, Dst Port: 67
+Dynamic Host Configuration Protocol (Discover)
+
+No.     Time           Source                Destination           Protocol Length Info
+    320 141.656417     0.0.0.0               255.255.255.255       DHCP     342    DHCP Discover - Transaction ID 0x24b847d7
+
+Frame 320: 342 bytes on wire (2736 bits), 342 bytes captured (2736 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 0.0.0.0, Dst: 255.255.255.255
+User Datagram Protocol, Src Port: 68, Dst Port: 67
+Dynamic Host Configuration Protocol (Discover)
+
+No.     Time           Source                Destination           Protocol Length Info
+    321 144.485662     0.0.0.0               255.255.255.255       DHCP     342    DHCP Discover - Transaction ID 0x5822cee9
+
+Frame 321: 342 bytes on wire (2736 bits), 342 bytes captured (2736 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 0.0.0.0, Dst: 255.255.255.255
+User Datagram Protocol, Src Port: 68, Dst Port: 67
+Dynamic Host Configuration Protocol (Discover)
+
+No.     Time           Source                Destination           Protocol Length Info
+    322 148.606280     0.0.0.0               255.255.255.255       DHCP     342    DHCP Discover - Transaction ID 0x24b847d7
+
+Frame 322: 342 bytes on wire (2736 bits), 342 bytes captured (2736 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 0.0.0.0, Dst: 255.255.255.255
+User Datagram Protocol, Src Port: 68, Dst Port: 67
+Dynamic Host Configuration Protocol (Discover)
+
+No.     Time           Source                Destination           Protocol Length Info
+    323 149.960440     0.0.0.0               255.255.255.255       DHCP     342    DHCP Discover - Transaction ID 0x24b847d7
+
+Frame 323: 342 bytes on wire (2736 bits), 342 bytes captured (2736 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 0.0.0.0, Dst: 255.255.255.255
+User Datagram Protocol, Src Port: 68, Dst Port: 67
+Dynamic Host Configuration Protocol (Discover)
+
+No.     Time           Source                Destination           Protocol Length Info
+    324 150.673033     0.0.0.0               255.255.255.255       DHCP     342    DHCP Discover - Transaction ID 0x5822cee9
+
+Frame 324: 342 bytes on wire (2736 bits), 342 bytes captured (2736 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 0.0.0.0, Dst: 255.255.255.255
+User Datagram Protocol, Src Port: 68, Dst Port: 67
+Dynamic Host Configuration Protocol (Discover)
+
+No.     Time           Source                Destination           Protocol Length Info
+    325 153.335375     0.0.0.0               255.255.255.255       DHCP     342    DHCP Discover - Transaction ID 0x5822cee9
+
+Frame 325: 342 bytes on wire (2736 bits), 342 bytes captured (2736 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 0.0.0.0, Dst: 255.255.255.255
+User Datagram Protocol, Src Port: 68, Dst Port: 67
+Dynamic Host Configuration Protocol (Discover)
+
+No.     Time           Source                Destination           Protocol Length Info
+    326 154.818485     0.0.0.0               255.255.255.255       DHCP     342    DHCP Discover - Transaction ID 0x24b847d7
+
+Frame 326: 342 bytes on wire (2736 bits), 342 bytes captured (2736 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 0.0.0.0, Dst: 255.255.255.255
+User Datagram Protocol, Src Port: 68, Dst Port: 67
+Dynamic Host Configuration Protocol (Discover)
+
+No.     Time           Source                Destination           Protocol Length Info
+    327 157.458701     0.0.0.0               255.255.255.255       DHCP     342    DHCP Discover - Transaction ID 0x5822cee9
+
+Frame 327: 342 bytes on wire (2736 bits), 342 bytes captured (2736 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 0.0.0.0, Dst: 255.255.255.255
+User Datagram Protocol, Src Port: 68, Dst Port: 67
+Dynamic Host Configuration Protocol (Discover)
+
+No.     Time           Source                Destination           Protocol Length Info
+    328 160.988026     0.0.0.0               255.255.255.255       DHCP     342    DHCP Discover - Transaction ID 0x24b847d7
+
+Frame 328: 342 bytes on wire (2736 bits), 342 bytes captured (2736 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 0.0.0.0, Dst: 255.255.255.255
+User Datagram Protocol, Src Port: 68, Dst Port: 67
+Dynamic Host Configuration Protocol (Discover)
+
+No.     Time           Source                Destination           Protocol Length Info
+    329 161.970729     0.0.0.0               255.255.255.255       DHCP     342    DHCP Discover - Transaction ID 0x5822cee9
+
+Frame 329: 342 bytes on wire (2736 bits), 342 bytes captured (2736 bits) on interface -, id 0
+Ethernet II, Src: 0c:c2:69:43:00:00 (0c:c2:69:43:00:00), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 0.0.0.0, Dst: 255.255.255.255
+User Datagram Protocol, Src Port: 68, Dst Port: 67
+Dynamic Host Configuration Protocol (Discover)
+
+No.     Time           Source                Destination           Protocol Length Info
+    330 165.574629     0.0.0.0               255.255.255.255       DHCP     342    DHCP Discover - Transaction ID 0x24b847d7
+
+Frame 330: 342 bytes on wire (2736 bits), 342 bytes captured (2736 bits) on interface -, id 0
+Ethernet II, Src: 0c:5d:2e:8e:00:00 (0c:5d:2e:8e:00:00), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 0.0.0.0, Dst: 255.255.255.255
+User Datagram Protocol, Src Port: 68, Dst Port: 67
+Dynamic Host Configuration Protocol (Discover)
